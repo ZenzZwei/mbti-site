@@ -1,0 +1,24 @@
+// 自定义样式
+
+// 中文排版优化
+.book-page {
+  line-height: 1.8;
+  letter-spacing: 0.02em;
+}
+
+// 标题间距调整（CJK 友好）
+.markdown {
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  // 表格优化
+  table {
+    font-size: 0.9em;
+  }
+}

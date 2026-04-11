@@ -1,0 +1,47 @@
+baseURL = 'https://zenzzwei.github.io/mbti-site/'
+title = 'MBTI Site'
+theme = 'hugo-book'
+copyright = '© 2026 ZenzZwei. 基于 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 许可。'
+
+# 中文支持
+languageCode = 'zh-cn'
+defaultContentLanguage = 'zh'
+hasCJKLanguage = true
+
+# SEO & 基础功能
+enableRobotsTXT = true
+disablePathToLower = true
+enableGitInfo = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+  [markup.highlight]
+    style = 'base16-snazzy'
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = 'docs'
+  BookRepo = 'https://github.com/ZenzZwei/mbti-site'
+  BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
+  BookDateFormat = '2006年1月2日'
+  BookSearch = true
+  BookComments = false
+  BookPortableLinks = 'warning'
+  BookFavicon = 'favicon.png'
+  BookLogo = 'favicon.svg'
+
+# 侧边栏底部菜单
+[[menu.after]]
+  name = 'GitHub'
+  url = 'https://github.com/ZenzZwei/mbti-site'
+  weight = 10
+
+[[menu.after]]
+  name = 'MBTI 官网'
+  url = 'https://www.myersbriggs.org/'
+  weight = 20
