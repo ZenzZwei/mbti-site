@@ -1,0 +1,26 @@
+# Hugo 构建输出
+public/
+resources/_gen/
+
+# Hugo 构建锁文件
+.hugo_build.lock
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node（部分主题可能用到）
+node_modules/
+package-lock.json
+
+# 环境变量
+.env
+.env.*
