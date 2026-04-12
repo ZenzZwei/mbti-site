@@ -1,6 +1,7 @@
 baseURL: https://mbti-docs.pages.dev/
 title: 荣格八维认知功能知识库
 theme: hextra
+copyright: "© 2026 ZenzZwei"
 
 # 中文支持
 languageCode: zh-cn
@@ -29,11 +30,6 @@ menu:
       weight: 3
       params:
         type: search
-    - name: GitHub
-      weight: 4
-      url: https://github.com/ZenzZwei/mbti-site
-      params:
-        icon: github
     - name: 主题切换
       params:
         type: theme-toggle
@@ -55,22 +51,21 @@ params:
       height: 28
     width: wide
 
-  # 搜索
+  # 搜索（CJK 用 full 分词）
   search:
     enable: true
     type: flexsearch
     flexsearch:
       index: content
-      tokenize: forward
+      tokenize: full
 
   # 页面设置
   page:
     width: wide
 
-  # 编辑链接
+  # 编辑链接（私有 repo 关闭）
   editURL:
-    enable: true
-    base: https://github.com/ZenzZwei/mbti-site/edit/main/content
+    enable: false
 
   # 日期显示
   displayUpdatedDate: true
