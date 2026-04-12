@@ -1,0 +1,81 @@
+baseURL: /
+title: 荣格八维认知功能知识库
+theme: hextra
+
+# 中文支持
+languageCode: zh-cn
+defaultContentLanguage: zh
+hasCJKLanguage: true
+
+# SEO & 基础功能
+enableRobotsTXT: true
+enableGitInfo: true
+
+# Markdown 渲染
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+# 顶部导航栏
+menu:
+  main:
+    - name: 知识库
+      pageRef: /docs
+      weight: 1
+    - name: 搜索
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: https://github.com/ZenzZwei/mbti-site
+      params:
+        icon: github
+    - name: 主题切换
+      params:
+        type: theme-toggle
+
+# 主题参数
+params:
+  # 主题/暗色模式
+  theme:
+    default: system
+    displayToggle: true
+
+  # 导航栏
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      width: 28
+      height: 28
+    width: wide
+
+  # 搜索
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+      tokenize: forward
+
+  # 页面设置
+  page:
+    width: wide
+
+  # 编辑链接
+  editURL:
+    enable: true
+    base: https://github.com/ZenzZwei/mbti-site/edit/main/content
+
+  # 日期显示
+  displayUpdatedDate: true
+  dateFormat: "2006年1月2日"
+
+  # 页脚
+  footer:
+    width: wide
