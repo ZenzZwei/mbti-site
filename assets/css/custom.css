@@ -1,11 +1,42 @@
 /* ============================================
    荣格八维认知功能知识库 — 自定义样式
+   色系：暖灰主调 + 靛青点缀（简约学术风）
    ============================================ */
 
-/* --- 1. 面包屑与标题间距 --- */
-.hextra-content nav[aria-label="breadcrumb"],
-nav.hextra-breadcrumbs {
-  margin-bottom: 1.5rem !important;
+/* --- 1. 面包屑：浅灰底 + 细边框 --- */
+main#content > div:first-child {
+  background: #f8f9fa !important;
+  border: 1px solid #e9ecef !important;
+  border-radius: 6px !important;
+  padding: 0.45rem 1rem !important;
+  margin-bottom: 1.6rem !important;
+  font-size: 0.8rem !important;
+}
+
+:is(html[class~="dark"]) main#content > div:first-child {
+  background: rgba(255, 255, 255, 0.04) !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+main#content > div:first-child a {
+  color: #0d9488 !important;
+}
+
+main#content > div:first-child a:hover {
+  color: #0f766e !important;
+  text-decoration: underline !important;
+}
+
+:is(html[class~="dark"]) main#content > div:first-child a {
+  color: #5eead4 !important;
+}
+
+main#content > div:first-child > div:last-child {
+  color: #374151 !important;
+}
+
+:is(html[class~="dark"]) main#content > div:first-child > div:last-child {
+  color: #e5e7eb !important;
 }
 
 /* --- 2. 首页标题与副标题间距 --- */
@@ -14,40 +45,40 @@ nav.hextra-breadcrumbs {
   margin-bottom: 2rem !important;
 }
 
-/* --- 3. 引用块样式美化 --- */
+/* --- 3. 引用块：左侧靛青细线 + 极浅底色 --- */
 article blockquote,
 .hextra-content blockquote {
-  border-left: 4px solid #6366f1 !important;
-  background: rgba(99, 102, 241, 0.04) !important;
-  border-radius: 0 8px 8px 0 !important;
+  border-left: 3px solid #99f6e4 !important;
+  background: #f0fdfa !important;
+  border-radius: 0 6px 6px 0 !important;
   padding: 1rem 1.25rem !important;
   margin: 1.5rem 0 !important;
 }
 
 :is(html[class~="dark"]) article blockquote,
 :is(html[class~="dark"]) .hextra-content blockquote {
-  border-left-color: #818cf8 !important;
-  background: rgba(99, 102, 241, 0.08) !important;
+  border-left-color: #2dd4bf !important;
+  background: rgba(20, 184, 166, 0.06) !important;
 }
 
 /* --- 4. 侧边栏当前页高亮 --- */
 aside nav li.active > a,
 aside nav a[aria-current="true"],
 aside nav a[aria-current="page"] {
-  color: #4f46e5 !important;
+  color: #0d9488 !important;
   font-weight: 600 !important;
 }
 
 :is(html[class~="dark"]) aside nav li.active > a,
 :is(html[class~="dark"]) aside nav a[aria-current="true"],
 :is(html[class~="dark"]) aside nav a[aria-current="page"] {
-  color: #a5b4fc !important;
+  color: #5eead4 !important;
 }
 
-/* --- 5. 表格样式优化 --- */
+/* --- 5. 表格：简洁灰底表头 --- */
 article table,
 .hextra-content table {
-  border-radius: 8px !important;
+  border-radius: 6px !important;
   overflow: hidden !important;
   border: 1px solid #e5e7eb !important;
 }
@@ -59,18 +90,26 @@ article table,
 
 article table thead,
 .hextra-content table thead {
-  background: linear-gradient(135deg, #eef2ff, #e0e7ff) !important;
+  background: #f8f9fa !important;
 }
 
 :is(html[class~="dark"]) article table thead,
 :is(html[class~="dark"]) .hextra-content table thead {
-  background: linear-gradient(135deg, #1e1b4b, #312e81) !important;
+  background: rgba(255, 255, 255, 0.05) !important;
 }
 
 article table thead th,
 .hextra-content table thead th {
   font-weight: 600 !important;
-  padding: 0.75rem 1rem !important;
+  padding: 0.65rem 1rem !important;
+  color: #374151 !important;
+  border-bottom: 2px solid #e5e7eb !important;
+}
+
+:is(html[class~="dark"]) article table thead th,
+:is(html[class~="dark"]) .hextra-content table thead th {
+  color: #e5e7eb !important;
+  border-bottom-color: #374151 !important;
 }
 
 article table tbody td,
@@ -80,19 +119,19 @@ article table tbody td,
 
 article table tbody tr:hover,
 .hextra-content table tbody tr:hover {
-  background: rgba(99, 102, 241, 0.04) !important;
+  background: rgba(13, 148, 136, 0.03) !important;
 }
 
 :is(html[class~="dark"]) article table tbody tr:hover,
 :is(html[class~="dark"]) .hextra-content table tbody tr:hover {
-  background: rgba(99, 102, 241, 0.08) !important;
+  background: rgba(94, 234, 212, 0.05) !important;
 }
 
-/* --- 6. h2 标题底部分隔线 --- */
+/* --- 6. h2 标题底部细线 --- */
 article h2,
 .hextra-content h2 {
-  padding-bottom: 0.3rem !important;
-  border-bottom: 2px solid #e5e7eb !important;
+  padding-bottom: 0.4rem !important;
+  border-bottom: 1px solid #e5e7eb !important;
   margin-top: 2.5rem !important;
 }
 
@@ -107,16 +146,16 @@ article > h1:first-of-type,
   margin-bottom: 1.5rem !important;
 }
 
-/* --- 8. 卡片悬停效果增强 --- */
+/* --- 8. 卡片悬停：微妙的靛青边框 --- */
 .hextra-card:hover {
-  border-color: #6366f1 !important;
-  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.1) !important;
+  border-color: #99f6e4 !important;
+  box-shadow: 0 2px 8px rgba(13, 148, 136, 0.08) !important;
   transition: all 0.2s ease !important;
 }
 
 :is(html[class~="dark"]) .hextra-card:hover {
-  border-color: #818cf8 !important;
-  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.15) !important;
+  border-color: #2dd4bf !important;
+  box-shadow: 0 2px 8px rgba(45, 212, 191, 0.1) !important;
 }
 
 /* --- 9. 中文排版优化 --- */
@@ -136,4 +175,19 @@ article hr,
 :is(html[class~="dark"]) article hr,
 :is(html[class~="dark"]) .hextra-content hr {
   border-color: #374151 !important;
+}
+
+/* --- 11. 页脚居中 + 统一样式 --- */
+footer.hextra-footer > div {
+  justify-content: center !important;
+}
+
+footer.hextra-footer > div > div {
+  align-items: center !important;
+  text-align: center !important;
+}
+
+footer.hextra-footer .hx\:text-xs {
+  font-size: 0.8rem !important;
+  margin-top: 0.5rem !important;
 }

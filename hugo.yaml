@@ -30,16 +30,21 @@ menu:
       weight: 3
       params:
         type: search
+    - name: GitHub
+      weight: 4
+      url: https://github.com/ZenzZwei/mbti-site
+      params:
+        icon: github
     - name: 主题切换
       params:
         type: theme-toggle
 
 # 主题参数
 params:
-  # 主题/暗色模式
+  # 暗色模式（顶栏切换，页脚不重复）
   theme:
     default: system
-    displayToggle: true
+    displayToggle: false
 
   # 导航栏
   navbar:
@@ -63,9 +68,10 @@ params:
   page:
     width: wide
 
-  # 编辑链接（私有 repo 关闭）
+  # 编辑链接
   editURL:
-    enable: false
+    enable: true
+    base: https://github.com/ZenzZwei/mbti-site/edit/main/content
 
   # 日期显示
   displayUpdatedDate: true
@@ -74,3 +80,5 @@ params:
   # 页脚
   footer:
     width: wide
+    displayCopyright: true
+    displayPoweredBy: false
