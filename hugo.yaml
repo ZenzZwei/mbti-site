@@ -9,7 +9,7 @@ defaultContentLanguage: zh
 hasCJKLanguage: true
 
 # SEO & 基础功能
-enableRobotsTXT: true
+enableRobotsTXT: false
 enableGitInfo: true
 
 # Markdown 渲染
