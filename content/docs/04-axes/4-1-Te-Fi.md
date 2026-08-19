@@ -128,9 +128,9 @@ weight: 1
 
 ### 2.3 "有用" vs. "有意义"的人生哲学冲突
 
-🟡 Te-Fi 轴在人生哲学层面的冲突可以被概括为"**有用**还是**有意义"**的永恒之问：
+🟡 Te-Fi 轴在人生哲学层面的冲突可以被概括为"**有用**还是**有意义**"的永恒之问：
 
-| 维度 | Te 视角：**"**有用" | Fi 视角："有意义" |
+| 维度 | Te 视角："**有用**" | Fi 视角："**有意义**" |
 |------|--------------|----------------|
 | **职业选择** | 选择收入高、前景好、市场需求大的职业 | 选择与个人价值一致、让自己感到真实的职业 |
 | **教育理念** | 学习市场需要的技能 | 学习让自己内心有回响的知识 |
@@ -232,7 +232,7 @@ weight: 1
 
 ### 4.1 完整映射表
 
-🔵🟢 Te-Fi 轴在 16 种类型中的分布：
+🔵🟢 以下列出以 Te-Fi 为主栈判断轴的 8 种类型：
 
 | 类型 | Te 位置 | Fi 位置 | 轴的运作特征 |
 |------|---------|---------|------------|
@@ -275,7 +275,7 @@ weight: 1
 
 ### 5.1 Te 强者与 Fi 强者的互补吸引
 
-🔵🟢 Te-Fi 轴上不同端的人之间常常产生强烈的互补吸引——这正是劣势功能投射的经典表现（参见 [3-4](../03-positions/3-4-inferior.md) 劣势功能）。
+🔵🟢 Te-Fi 轴上不同端的人之间常常产生强烈的互补吸引——这正是劣势功能投射的经典表现（参见 [3-4]({{% relref "/docs/03-positions/3-4-inferior.md" %}}) 劣势功能）。
 
 **吸引机制**：
 - Te 强者（ENTJ/ESTJ）被 Fi 强者（INFP/ISFP）身上的"真诚""对内在价值的坚守""不被外部标准左右"所吸引——这是他们灵魂中渴望但未被发展的面向
@@ -404,8 +404,8 @@ weight: 1
 
 | 八维系统 | Socionics 对应 | Socionics 名称 |
 |---------|--------------|---------------|
-| **Te** | ⬛ P（黑色逻辑） | Pragmatic Logic / 效益逻辑 |
-| **Fi** | ⬜ R（白色伦理） | Ethics of Relations / 关系伦理 |
+| **Te** | **P** | Pragmatic Logic / 效益逻辑 |
+| **Fi** | **R** | Ethics of Relations / 关系伦理 |
 
 🔵 Socionics 对这对信息元素的描述：
 
@@ -413,7 +413,7 @@ weight: 1
 |------|---------|---------|
 | **核心关注** | 工作效率、资源利用、方法论 | 人际距离、关系质量、心理相容性 |
 | **信息处理** | "这个方法有多有效？" | "这段关系对我意味着什么？" |
-| **Quadra 分布** | Alpha/Delta 重视 P | Alpha/Delta 重视 R（作为配对） |
+| **Quadra 分布** | Gamma/Delta 重视 P | Gamma/Delta 重视 R（作为配对） |
 
 ### 7.2 两个体系的异同
 
@@ -433,7 +433,7 @@ weight: 1
 
 1. **Quadra 价值观**：Socionics 指出 P 和 R 在不同 Quadra 中有不同的地位——例如 Gamma Quadra（包含 ENTJ/INTJ/ESFP/ISFP）同时重视 P（效率）和 R（关系价值），使得 Te-Fi 轴在 Gamma 类型中有特别深的整合潜力
 2. **信息代谢速度**：Socionics 提供了关于 P 和 R 信息处理速度的具体分析——高维 P 处理效率信息极快，高维 R 处理关系信息极快
-3. **对偶互补**：在 Socionics 的 Dual 关系中，一方的 Leading P 与另一方的 Suggestive R 形成完美互补——这为 Te-Fi 轴的"关系中的整合"提供了具体机制
+3. **对偶互补**：在 Socionics 的 Dual 关系中，一方的 Leading P 对接另一方的 Suggestive P，同时对方的 Leading R 对接前者的 Suggestive R——例如 LIE 与 ESI。这为 Te-Fi 信息在关系中的互补提供了具体机制
 
 ---
 
@@ -462,8 +462,8 @@ weight: 1
 
 | 主题 | 推荐资源 |
 |------|---------|
-| Te 和 Fi 的深度解析 | 参见本系列 [2-5](../02-functions/2-5-Te.md) Te 外倾思维、[2-8](../02-functions/2-8-Fi.md) Fi 内倾情感 |
-| 劣势功能的发展 | 参见 [3-4](../03-positions/3-4-inferior.md) 第四功能位：劣势功能 |
-| 职场中的类型冲突 | 详见模块七 [7-3](../07-applications/7-3-career.md) 八维与职业发展 |
-| Te-Fi 与其他轴的比较 | [4-2](./4-2-Ti-Fe.md) Ti-Fe 轴、[4-3](./4-3-Se-Ni.md) Se-Ni 轴、[4-4](./4-4-Si-Ne.md) Si-Ne 轴 |
+| Te 和 Fi 的深度解析 | 参见本系列 [2-5]({{% relref "/docs/02-functions/2-5-Te.md" %}}) Te 外倾思维、[2-8]({{% relref "/docs/02-functions/2-8-Fi.md" %}}) Fi 内倾情感 |
+| 劣势功能的发展 | 参见 [3-4]({{% relref "/docs/03-positions/3-4-inferior.md" %}}) 第四功能位：劣势功能 |
+| 职场中的类型冲突 | 详见模块七 [7-3]({{% relref "/docs/07-applications/7-3-career.md" %}}) 八维与职业发展 |
+| Te-Fi 与其他轴的比较 | [4-2]({{% relref "/docs/04-axes/4-2-Ti-Fe.md" %}}) Ti-Fe 轴、[4-3]({{% relref "/docs/04-axes/4-3-Se-Ni.md" %}}) Se-Ni 轴、[4-4]({{% relref "/docs/04-axes/4-4-Si-Ne.md" %}}) Si-Ne 轴 |
 | 效率与意义的哲学 | Viktor Frankl, *Man's Search for Meaning* (1946)——意义治疗与价值追求 |

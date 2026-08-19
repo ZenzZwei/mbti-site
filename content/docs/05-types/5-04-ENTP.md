@@ -509,10 +509,10 @@ Loop 模式：**Ne → Fe → Ne → Fe → ……**（可能性通过社交反�
 
 ### 14.1 Socionics 中的对应类型
 
-🔵 ENTP 在 Socionics 中对应的类型是 **ILE**（Intuitive Logical Extrovert），也被称为 **Don Quixote** 或 **The Seeker**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ENTP 通常与 Socionics 的 **ILE**（Intuitive Logical Extrovert）对照；ILE 也被称为 **Don Quixote** 或 **The Seeker**。
 
 > [!WARNING]
-> 注意：MBTI 的 ENTP 直接对应 Socionics 的 ENTp（外倾型的 J/P 一致）。详见 [1-3](../01-fundamentals/1-3-socionics-comparison.md)。
+> 注意：在上述近似映射中，MBTI 的 ENTP 对照 Socionics 的 ENTp；外倾型的 J/P 字母不反转，但这不表示两套类型定义或完整功能序列相同。详见 [1-3]({{% relref "/docs/01-fundamentals/1-3-socionics-comparison.md" %}})。
 
 ### 14.2 Model A 功能栈对比
 
@@ -520,17 +520,17 @@ Loop 模式：**Ne → Fe → Ne → Fe → ……**（可能性通过社交反�
 |------|-----------|---------------|
 | 主导 (1st) | Ne | Ne（基础功能/Leading） |
 | 辅助 (2nd) | Ti | Ti（创造功能/Creative） |
-| 角色 (3rd) | — | Fi（角色功能/Role） |
-| 脆弱 (4th) | — | Se（脆弱功能/PoLR） |
+| 角色 (3rd) | — | Se（角色功能/Role） |
+| 脆弱 (4th) | — | Fi（脆弱功能/PoLR） |
 | 暗示 (5th) | — | Si（暗示功能/Suggestive） |
 | 激活 (6th) | — | Fe（激活功能/Mobilizing） |
 | 忽视 (7th) | — | Ni（忽视功能/Ignoring） |
 | 示范 (8th) | — | Te（示范功能/Demonstrative） |
 
 🔵 **关键差异**：
-- **PoLR（最弱功能）**：Socionics 认为 ILE 的最弱功能是 **Se**——即力量/意志力感知。这意味着 ENTP 在"施加意志力""控制物理空间""展现权威存在感"方面最脆弱——与 MBTI 中 Se 在第 8 位（恶魔）一致
+- **PoLR（最弱功能）**：Socionics 认为 ILE 的最弱功能是 **Fi**——即关系伦理与人际距离判断。这意味着 ILE 对关系承诺、个人好恶和细腻边界方面的批评尤其敏感；这与 MBTI 中 Fi 位于第 7 位的描述可作对照
 - **暗示功能是 Si**：ILE 特别渴望但依赖他人提供的"身体舒适和日常照顾"——这与 MBTI 中 Si 劣势高度一致
-- **对偶关系**：ILE 的对偶是 **SEI (ISFj/ISFP*)**——Si-Fe 主导型提供 ILE 最需要的日常照顾和温暖氛围
+- **对偶关系**：ILE 的对偶是 **SEI (ISFp/ISFJ*)**——Si-Fe 主导型提供 ILE 最需要的日常照顾和温暖氛围
 
 ### 14.3 Socionics 对 ILE 的不同侧重
 

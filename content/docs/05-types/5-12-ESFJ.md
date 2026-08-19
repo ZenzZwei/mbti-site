@@ -592,13 +592,13 @@ ESFJ（Fe-Si-Ne-Ti）和 ISFJ（Si-Fe-Ti-Ne）共享 Fe 和 Si 这两个最核�
 
 ### ESFJ 在 Socionics 中的对应
 
-🔵 MBTI 的 ESFJ 在 Socionics 中对应 **ESE（Ethical Sensing Extrovert，伦理感觉外倾型）**，三字母代码为 **ESFj**（对于外倾型，Socionics 与 MBTI 的 J/P 标记一致）。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ESFJ 通常与 Socionics 的 **ESE（Ethical Sensing Extrovert，伦理感觉外倾型）**对照，三字母代码为 **ESFj**。外倾型的 J/P 字母不反转，但两套完整模型并不等价。
 
 **J/P 一致性说明**：ESFJ 是外倾型，且主导功能 Fe 是判断/理性功能——因此在 Socionics 中也被标记为 j（理性型），三字母代码 ESFj 与 MBTI 的 ESFJ 一致。
 
 | 对比维度 | MBTI ESFJ | Socionics ESE (ESFj) |
 |----------|-----------|---------------------|
-| 功能栈 | Fe-Si-Ne-Ti | Fe-Si（一维功能对应一致） |
+| 功能栈 | Fe-Si-Ne-Ti | Fe-Si（前两位功能对应一致） |
 | 类型名称 | 执政官/Consul | 热情者/The Enthusiast（有时称 Hugo） |
 | J/P 标记 | J（基于外倾判断功能 Fe） | j（基于主导理性功能 Fe）——一致 |
 | 对偶类型（Dual） | — | LII（INTP 的 Socionics 对应） |
@@ -610,21 +610,21 @@ ESFJ（Fe-Si-Ne-Ti）和 ISFJ（Si-Fe-Ti-Ne）共享 Fe 和 Si 这两个最核�
 |-------------|------|------|
 | 基础功能（1st） | Fe | 核心——情感协调、社交领航 |
 | 创造功能（2nd） | Si | 实现——感官舒适、经验应用 |
-| 角色功能（3rd） | Ti | 社会面具——必要时展现逻辑 |
-| 脆弱功能（4th） | Ne | 痛点——可能性探索与不确定性 |
+| 角色功能（3rd） | Te | 社会面具——必要时展现外部效率 |
+| 脆弱功能（4th） | Ni | 痛点——时间感与长期预判 |
 | 暗示功能（5th） | Ti | 渴求——逻辑分析的输入 |
 | 动员功能（6th） | Ne | 内在结构——需要新可能性支持 |
 | 忽视功能（7th） | Fi | 意识到但不优先——可使用但不愿依赖 |
 | 示范功能（8th） | Se | 背景能力——自然理解但不刻意使用 |
 
-🔵 **需要注意的 Model A 特殊之处**：在 Socionics 的 Model A 中，ESE 的第3功能是 Ti（角色功能），第4功能是 Ne（脆弱功能）——这与 Beebe 模型中 ESFJ 的第3 Ne、第4 Ti 顺序不同。Model A 的角色/脆弱位排列基于不同的理论逻辑（强弱维度理论），而非 Beebe 的外倾/内倾交替原则。
+🔵 **需要注意的 Model A 特殊之处**：在 Socionics 的 Model A 中，ESE 的第3功能是 Te（角色功能），第4功能是 Ni（脆弱功能）。Model A 的角色/脆弱位排列基于不同的理论逻辑（强弱维度理论），而非 Beebe 的外倾/内倾交替原则。
 
 ### MBTI 八功能栈 vs Socionics Model A 的差异
 
 - **Beebe 模型**（MBTI）：Fe-Si-Ne-Ti | Fi-Se-Ni-Te（主栈+阴影）
-- **Model A**（Socionics）：Fe-Si-Ti-Ne | Ti-Ne-Fi-Se（分为自我/超我/超我我/本我四组）
+- **Model A**（Socionics）：Fe-Si-Te-Ni | Ti-Ne-Fi-Se（分为自我/超我/超本我/本我四组）
 
-🟡 两个系统对 ESFJ/ESE 的弱点诊断有所不同：Beebe 认为 Ti 是劣势功能（最大弱点），Model A 则将 Ne 放在脆弱位（最痛苦的功能点）——但两者都承认 Ti 和 Ne 对 ESFJ 来说是挑战性的认知维度。
+🟡 两个系统对 ESFJ/ESE 的弱点诊断有所不同：Beebe 认为 Ti 是劣势功能（最大弱点），Model A 则将 Ni 放在脆弱位（最痛苦的功能点）——两套模型对核心薄弱环节给出了不同判断。
 
 ### 对偶关系（Duality）：ESE 与 LII
 

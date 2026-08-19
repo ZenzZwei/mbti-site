@@ -534,13 +534,13 @@ ENFJ 在亲密关系中展现出一种独特的**全身心投入与引导并存*
 
 ### Socionics 中的对应类型
 
-🔵 在 Socionics 体系中，MBTI 的 ENFJ 对应的是 **EIE（Ethical Intuitive Extrovert）**，又名**哈姆雷特（Hamlet）**或**导师（The Mentor）**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ENFJ 通常与 Socionics 的 **EIE（Ethical Intuitive Extrovert）**对照；EIE 又名**哈姆雷特（Hamlet）**或**导师（The Mentor）**。
 
 ⚠️ **重要注意**：由于 ENFJ 是外向型（E），Socionics 和 MBTI 的 J/P 标记在外向型上是一致的：
 - MBTI ENFJ → 功能栈 Fe-Ni-Se-Ti
-- Socionics ENFj (EIE) → 功能栈 Fe-Ni-Se-Ti（一致）
+- Socionics ENFj (EIE) → Ego 功能为 Fe-Ni（与 MBTI ENFJ 的前两位功能对应）
 
-因此，MBTI 的 ENFJ 直接对应 Socionics 的 **EIE（ENFj）**。
+因此，按本文采用的映射原则，MBTI 的 ENFJ 通常与 Socionics 的 **EIE（ENFj）近似对照**；J/P 字母相同不表示两套完整模型等价。
 
 ### Socionics EIE（哈姆雷特 / The Mentor）
 
@@ -552,21 +552,21 @@ ENFJ 在亲密关系中展现出一种独特的**全身心投入与引导并存*
 |-----------------|-----------|----------------|
 | 主导功能（Leading） | Fe 外倾情感 | 第一功能（英雄） |
 | 创造功能（Creative） | Ni 内倾直觉 | 第二功能（好父母） |
-| 角色功能（Role） | Se 外倾感觉 | ≈ 第三功能 |
-| 脆弱功能（Vulnerable） | Ti 内倾思维 | ≈ 第四功能（劣势） |
-| 暗示功能（Suggestive） | Si 内倾感觉 | — |
-| 动员功能（Mobilizing） | Te 外倾思维 | — |
-| 忽视功能（Ignoring） | Fi 内倾情感 | ≈ 第五功能 |
-| 示范功能（Demonstrative） | Ne 外倾直觉 | ≈ 第六功能 |
+| 角色功能（Role） | Te 外倾思维 | 第八功能（恶魔/天使） |
+| 脆弱功能（Vulnerable） | Si 内倾感觉 | 第七功能（欺骗者） |
+| 暗示功能（Suggestive） | Ti 内倾思维 | 第四功能（劣势） |
+| 动员功能（Mobilizing） | Se 外倾感觉 | 第三功能 |
+| 忽视功能（Ignoring） | Fi 内倾情感 | 第五功能（对立人格） |
+| 示范功能（Demonstrative） | Ne 外倾直觉 | 第六功能（批判父母） |
 
 ### Socionics 的不同侧重
 
 🔵 Socionics 对 EIE 类型的描述与 MBTI 的 ENFJ 有一些显著的差异：
 
-1. **二元关系（Duality）**：EIE 的对偶（Dual）类型是 **LSI（内倾感觉逻辑型，对应 MBTI ISTP）**。Socionics 认为 LSI 的稳定结构感（Si+Ti）恰好弥补了 EIE 在日常秩序和逻辑精确性方面的不足，而 EIE 的情感活力和远见为 LSI 的生活注入热情和方向
+1. **二元关系（Duality）**：EIE 的对偶（Dual）类型是 **LSI（内倾感觉逻辑型，对应 MBTI ISTP）**。Socionics 认为 LSI 的 Ti-Se 回应了 EIE 的 Ti 暗示和 Se 动员需求，而 EIE 的 Fe-Ni 为 LSI 的生活注入情感活力和方向
 2. "**哈姆雷特**"**标签的含义**：与 MBTI 的"教师/主角"标签不同，Socionics 的"哈姆雷特"更强调 EIE 情感生活的**戏剧性和强度**——他们不仅善于感知和表达情感，还常常以一种近乎戏剧性的方式体验生活中的情感事件
-3. **脆弱功能 Ti**：Socionics 强调 EIE 在"结构逻辑"维度上的脆弱——他们不仅在逻辑分析方面能力有限，而且对这一领域的批评特别敏感
-4. **暗示功能 Si**：EIE 被认为在"身体舒适和日常秩序"方面需要外部帮助——他们渴望有人照顾他们的日常生活细节，但自己在维持规律和舒适方面经常力不从心
+3. **脆弱功能 Si**：Socionics 强调 EIE 对身体状态、舒适维护和日常细节方面的批评尤其敏感
+4. **暗示功能 Ti**：EIE 重视来自他人的结构分析、清晰定义和一致逻辑，但自己较难持续地主导这一领域
 5. **情感表达的强度**：Socionics 比 MBTI 更突出 EIE 的情感表达强度——描述其为"能用情感席卷整个房间"的类型，强调他们在演讲、表演和社会运动中的感染力
 
 ### 🔵 Socionics 与 MBTI ENFJ 描述的主要差异
@@ -576,7 +576,7 @@ ENFJ 在亲密关系中展现出一种独特的**全身心投入与引导并存*
 | 核心形象 | "教师/主角"——强调引导、教育和积极影响 | "哈姆雷特/导师"——强调情感戏剧性和社会激励 |
 | Fe 的描述 | 群体和谐、人际关怀、温暖的领导力 | 情感场域的掌控、戏剧性表达、社会运动的激发 |
 | Ni 的定位 | 辅助功能——为 Fe 提供深度和方向 | 创造功能——EIE 创造性地运用直觉来塑造社会叙事 |
-| 弱点强调 | Ti 劣势导致的逻辑盲区 | Ti 脆弱 + Si 暗示——同时在逻辑和日常秩序方面有困难 |
+| 弱点强调 | Ti 劣势导致的逻辑盲区 | Si 脆弱 + Ti 暗示——日常维护与逻辑支持需求 |
 | 最佳配对 | 无强制性推荐 | LSI（ISTP）——二元关系 |
 | 社会角色 | 教师、领导者、咨询师 | 社会激发者、演说家、情感领袖 |
 

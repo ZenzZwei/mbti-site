@@ -158,7 +158,7 @@ John Beebe 将这个位置赋予了"永恒少年/永恒少女"（Puer Aeternus /
 
 ### 3.2 Si 作为第三功能
 
-**对应类型**：ENTP（Ne-Ti-Si-Fe）、ENFP（Ne-Fi-Si-Te）
+**对应类型**：INTP（Ti-Ne-Si-Fe）、INFP（Fi-Ne-Si-Te）
 
 | 维度 | 表现 |
 |------|------|
@@ -180,7 +180,7 @@ John Beebe 将这个位置赋予了"永恒少年/永恒少女"（Puer Aeternus /
 
 ### 3.4 Ni 作为第三功能
 
-**对应类型**：ESTP（Se-Ti-Ni-Fe）、ESFP（Se-Fi-Ni-Te）
+**对应类型**：ISTP（Ti-Se-Ni-Fe）、ISFP（Fi-Se-Ni-Te）
 
 | 维度 | 表现 |
 |------|------|
@@ -202,7 +202,7 @@ John Beebe 将这个位置赋予了"永恒少年/永恒少女"（Puer Aeternus /
 
 ### 3.6 Ti 作为第三功能
 
-**对应类型**：INFJ（Ni-Fe-Ti-Se）、ISFJ（Si-Fe-Ti-Se）
+**对应类型**：INFJ（Ni-Fe-Ti-Se）、ISFJ（Si-Fe-Ti-Ne）
 
 | 维度 | 表现 |
 |------|------|
@@ -334,7 +334,7 @@ John Beebe 将这个位置赋予了"永恒少年/永恒少女"（Puer Aeternus /
 - INTP 的 Ti-Si Loop：沉浸在内在逻辑和过去经验的循环中，跳过了 Ne 的外部探索——结果是越来越封闭和保守
 - ENFJ 的 Fe-Se Loop：沉浸在社交活动和感官体验的循环中，跳过了 Ni 的深层反思——结果是忙碌但缺乏方向
 
-（Loop 的详细分析将在 [6-1](../06-dynamics/6-1-loop.md) 功能环路全解析 中展开。）
+（Loop 的详细分析将在 [6-1]({{% relref "/docs/06-dynamics/6-1-loop.md" %}}) 功能环路全解析中展开。）
 
 ---
 
@@ -416,9 +416,11 @@ John Beebe 将这个位置赋予了"永恒少年/永恒少女"（Puer Aeternus /
 
 第三功能（永恒少年/少女）是功能栈中最具"成长潜力"和"游戏性"的位置。它是我们内心的童趣所在——"想做但做不好"的那件事，却也正是中年期（30-40 岁）功能发展的核心焦点。关于第三功能的内/外倾方向（与主导同向还是反向），理论界至今存在争议，这本身也提醒我们：八维理论仍在发展中，保持开放的批判性态度是应有之义。
 
+## 参考文献与延伸阅读
+
 ### 荣格原著
 1. Jung, C. G. (1921/1971). *Psychological Types*. Princeton University Press.
-2. Von Franz, M.-L. (1970). *The Problem of the Puer Aeternus*. Spring Publications. 永恒少年原型的经典分析。
+2. von Franz, M.-L. (1970). *The Problem of the Puer Aeternus*. Spring Publications. 永恒少年原型的经典分析。
 
 ### Beebe 原型模型
 3. Beebe, J. (2017). *Energies and Patterns in Psychological Type*. Routledge.

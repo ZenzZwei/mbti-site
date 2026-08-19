@@ -528,6 +528,8 @@ Grip 状态（极端压力）：
 
 主导功能（英雄）是功能栈的核心支柱，定义了一个人最自然、最自信的认知方式。它在 10 岁前就开始分化，终身作为"默认操作系统"运行。但正因为与主导功能的深度认同，我们也最容易陷入"功能膨胀"——将自己等同于主导功能，忽视其他功能的发展。理解主导功能的光明面（英雄般的核心能力）和阴影面（过度认同的盲区），是八维自我认知的第一步。
 
+## 参考文献与延伸阅读
+
 ### 荣格原著
 1. Jung, C. G. (1921/1971). *Psychological Types*. Princeton University Press. 关于"最分化的功能"的论述。
 2. Jung, C. G. (1948). "The Phenomenology of the Spirit in Fairytales." In *Collected Works*, Vol. 9i. 英雄原型的论述。

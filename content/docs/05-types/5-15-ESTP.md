@@ -372,7 +372,7 @@ Ne 作为 ESTP 最深层的阴影功能，通常以极端形式出现：
 
 ### ESTP 的关系核心动力
 
-🟢 ESTP 在人际关系中的核心动力可以概括为：**通过共同的即时体验和实际行动来建立连接**。他们不是通过"深度谈心"来建立亲密——而是通过"**一起经历刺激的事情**"**和"在你需要时立刻出现"**来证明关系的价值。
+🟢 ESTP 在人际关系中的核心动力可以概括为：**通过共同的即时体验和实际行动来建立连接**。他们不是通过"深度谈心"来建立亲密——而是通过"**一起经历刺激的事情**"和"**在你需要时立刻出现**"来证明关系的价值。
 
 ### 亲密关系
 
@@ -557,11 +557,11 @@ ESTP（Se-Ti-Fe-Ni）和 ESFP（Se-Fi-Te-Ni）共享 Se 主导和 Ni 劣势—�
 
 ### ESTP 在 Socionics 中的对应
 
-🔵 MBTI 的 ESTP 在 Socionics 中，按照功能排列一致的原则，对应 **SLE（Sensory Logical Extrovert，感觉逻辑外倾型）**，三字母代码为 **ESTp**（Socionics 中 ESTP 的主导功能 Se 是感知/非理性功能，因此标记为 p）。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ESTP 通常与 Socionics 的 **SLE（Sensory Logical Extrovert，感觉逻辑外倾型）**对照，三字母代码为 **ESTp**。SLE 的主导功能 Se 是感知/非理性功能，因此在 Socionics 中标记为 p。
 
 | 对比维度 | MBTI ESTP | Socionics SLE (ESTp) |
 |----------|-----------|---------------------|
-| 功能栈 | Se-Ti-Fe-Ni | Se-Ti（一维功能对应一致） |
+| 功能栈 | Se-Ti-Fe-Ni | Se-Ti（前两位功能对应一致） |
 | 类型名称 | 企业家/Entrepreneur | 征服者/The Conqueror（有时称 Zhukov） |
 | J/P 标记 | P（MBTI 基于外倾感知功能 Se） | p（Socionics 基于主导非理性功能 Se）——一致 |
 | 对偶类型（Dual） | — | IEI（INFJ 的 Socionics 对应） |
@@ -573,8 +573,8 @@ ESTP（Se-Ti-Fe-Ni）和 ESFP（Se-Fi-Te-Ni）共享 Se 主导和 Ni 劣势—�
 |-------------|------|------|
 | 基础功能（1st） | Se | 核心——感官掌控、即时行动 |
 | 创造功能（2nd） | Ti | 实现——逻辑分析、战术推理 |
-| 角色功能（3rd） | Ni | 社会面具——必要时展现远见 |
-| 脆弱功能（4th） | Fe | 痛点——群体情感协调 |
+| 角色功能（3rd） | Ne | 社会面具——必要时展现可能性探索 |
+| 脆弱功能（4th） | Fi | 痛点——个人关系与价值判断 |
 | 暗示功能（5th） | Ni | 渴求——深层直觉的输入 |
 | 动员功能（6th） | Fe | 内在结构——需要情感和谐支持 |
 | 忽视功能（7th） | Si | 意识到但不优先——可使用但不愿依赖 |
@@ -583,9 +583,9 @@ ESTP（Se-Ti-Fe-Ni）和 ESFP（Se-Fi-Te-Ni）共享 Se 主导和 Ni 劣势—�
 ### MBTI 八功能栈 vs Socionics Model A 的差异
 
 - **Beebe 模型**（MBTI）：Se-Ti-Fe-Ni | Si-Te-Fi-Ne（主栈+阴影）
-- **Model A**（Socionics）：Se-Ti-Ni-Fe | Ni-Fe-Si-Te（分为自我/超我/超他/本我四组）
+- **Model A**（Socionics）：Se-Ti-Ne-Fi | Ni-Fe-Si-Te（分为自我/超我/超本我/本我四组）
 
-🟡 关键差异：Beebe 模型将 Fe 放在第3位（永恒少年）、Ni 放在第4位（劣势），而 Model A 将 Ni 放在角色位（第3）、Fe 放在脆弱位（第4）。这反映了两个系统对"ESTP 最大的弱点是什么"的不同理论判断。
+🟡 关键差异：Beebe 模型将 Fe 放在第3位（永恒少年）、Ni 放在第4位（劣势），而 Model A 将 Ne 放在角色位（第3）、Fi 放在脆弱位（第4）。这反映了两个系统对"ESTP 最大的弱点是什么"的不同理论判断。
 
 ### 对偶关系（Duality）：SLE 与 IEI
 

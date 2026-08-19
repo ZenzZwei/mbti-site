@@ -99,7 +99,7 @@ weight: 4
 
 > 🔵 **后人诠释**：Thomson 在《Personality Type: An Owner's Manual》中描述了"全栈参与"的高阶认知状态——当一个人面对足够复杂的任务时，所有四个主栈功能可能被同时调用。
 
-**以 ENTP（Ne-Ti-Fe-Ni）面对一个复杂商业决策为例**：
+**以 ENTP（Ne-Ti-Fe-Si）面对一个复杂商业决策为例**：
 
 ```
 Ne（主导）: 产生多个可能的解决方案
@@ -108,7 +108,7 @@ Ti（辅助）: 分析每个方案的逻辑一致性和可行性
      ↓↑
 Fe（第三）: 评估每个方案对团队/利益相关者的影响
      ↓↑
-Ni（劣势）: 提供隐约的直觉——"这个方案感觉是对的"（但不确定为什么）
+Si（劣势）: 提供过往经验和具体细节的提醒——"类似方案以前在哪些地方出过问题？"
 ```
 
 **高阶协同的特征**：
@@ -258,7 +258,7 @@ Ni（劣势）: 提供隐约的直觉——"这个方案感觉是对的"（但�
 
 **路径一：自然发展性意识化**
 
-随着年龄增长和生活经验的积累，功能自然地进入意识范围——这对应 [6-3](./6-3-lifecycle.md) 所述的生命周期功能发展。
+随着年龄增长和生活经验的积累，功能自然地进入意识范围——这对应 [6-3]({{% relref "/docs/06-dynamics/6-3-lifecycle.md" %}}) 所述的生命周期功能发展。
 
 ```
 儿童期：主导意识化 → 青少年：辅助意识化 → 青年期：第三触及 → 中年：劣势 confrontation
@@ -436,7 +436,7 @@ Ni（劣势）: 提供隐约的直觉——"这个方案感觉是对的"（但�
 ## 参考文献
 
 1. Jung, C.G. (1921/1971). *Psychological Types*. Princeton University Press.
-2. Jung, C.G. (1957). "The Transcendent Function." In *The Structure and Dynamics of the Psyche*. Collected Works, Vol. 8.
+2. Jung, C. G. (1969). "The Transcendent Function" (written 1916; first published 1957; revised 1958). In *The Structure and Dynamics of the Psyche* (CW8, 2nd ed., pp. 67–91). Princeton University Press.
 3. Myers, I.B. & Myers, P.B. (1995). *Gifts Differing: Understanding Personality Type*. Davies-Black Publishing.
 4. Beebe, J. (2004). "Understanding Consciousness Through the Theory of Psychological Types." In *Analytical Psychology: Contemporary Perspectives in Jungian Analysis*.
 5. Beebe, J. (2017). *Energies and Patterns in Psychological Type*. Routledge.

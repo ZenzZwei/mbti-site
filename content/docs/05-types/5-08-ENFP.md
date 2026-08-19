@@ -533,13 +533,13 @@ ENFP 在亲密关系中展现出一种独特的**热烈追求与深度承诺之�
 
 ### Socionics 中的对应类型
 
-🔵 在 Socionics 体系中，MBTI 的 ENFP 对应的是 **IEE（Intuitive Ethical Extrovert）**，又名**赫胥黎（Huxley）**或**顾问（The Adviser）**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ENFP 通常与 Socionics 的 **IEE（Intuitive Ethical Extrovert）**对照；IEE 又名**赫胥黎（Huxley）**或**顾问（The Adviser）**。
 
 ⚠️ **重要注意**：由于 ENFP 是外向型（E），Socionics 和 MBTI 的 J/P 标记在外向型上一致：
 - MBTI ENFP → 功能栈 Ne-Fi-Te-Si
-- Socionics ENFp (IEE) → 功能栈 Ne-Fi-Te-Si（一致）
+- Socionics ENFp (IEE) → Ego 功能为 Ne-Fi（与 MBTI ENFP 的前两位功能对应）
 
-因此，MBTI 的 ENFP 直接对应 Socionics 的 **IEE（ENFp）**。
+因此，按本文采用的映射原则，MBTI 的 ENFP 通常与 Socionics 的 **IEE（ENFp）近似对照**；J/P 字母相同不表示两套完整模型等价。
 
 ### Socionics IEE（赫胥黎 / The Adviser）
 
@@ -551,20 +551,20 @@ ENFP 在亲密关系中展现出一种独特的**热烈追求与深度承诺之�
 |-----------------|-----------|----------------|
 | 主导功能（Leading） | Ne 外倾直觉 | 第一功能（英雄） |
 | 创造功能（Creative） | Fi 内倾情感 | 第二功能（好父母） |
-| 角色功能（Role） | Te 外倾思维 | ≈ 第三功能 |
-| 脆弱功能（Vulnerable） | Si 内倾感觉 | ≈ 第四功能（劣势） |
-| 暗示功能（Suggestive） | Ti 内倾思维 | — |
-| 动员功能（Mobilizing） | Se 外倾感觉 | — |
-| 忽视功能（Ignoring） | Ni 内倾直觉 | ≈ 第五功能 |
-| 示范功能（Demonstrative） | Fe 外倾情感 | ≈ 第六功能 |
+| 角色功能（Role） | Se 外倾感觉 | 第八功能（恶魔/天使） |
+| 脆弱功能（Vulnerable） | Ti 内倾思维 | 第七功能（欺骗者） |
+| 暗示功能（Suggestive） | Si 内倾感觉 | 第四功能（劣势） |
+| 动员功能（Mobilizing） | Te 外倾思维 | 第三功能 |
+| 忽视功能（Ignoring） | Ni 内倾直觉 | 第五功能（对立人格） |
+| 示范功能（Demonstrative） | Fe 外倾情感 | 第六功能（批判父母） |
 
 ### Socionics 的不同侧重
 
 🔵 Socionics 对 IEE 类型的描述与 MBTI 的 ENFP 有一些不同的侧重：
 
-1. **二元关系（Duality）**：IEE 的对偶（Dual）类型是 **SLI（内倾感觉逻辑型，对应 MBTI ISTJ）**。Socionics 认为 SLI 的稳定 Si 和精确 Ti 恰好弥补了 IEE 在日常秩序和内在逻辑方面的不足，而 IEE 的 Ne-Fi 为 SLI 提供了可能性视野和情感深度。🟡 这一配对在 MBTI 社区中可能被视为"截然相反、完全不合"的组合，但 Socionics 认为这种互补性正是最佳关系的基础
-2. **脆弱功能 Si**：Socionics 比 MBTI 更直接地强调 IEE 在"日常秩序和身体舒适"维度上的脆弱——他们不仅在惯例维护方面有困难，而且对这个领域的批评特别敏感和痛苦
-3. **暗示功能 Ti**：IEE 被认为在"内在逻辑精确性"维度上需要外部帮助——他们欣赏能够帮助他们"理清思路"的人，但自己在严格的逻辑论证方面感到力不从心
+1. **二元关系（Duality）**：IEE 的对偶（Dual）类型是 **SLI（内倾感觉逻辑型，对应 MBTI ISTJ）**。Socionics 认为 SLI 的 Si-Te 回应了 IEE 的 Si 暗示和 Te 动员需求，而 IEE 的 Ne-Fi 为 SLI 提供可能性视野和情感深度。🟡 这一配对在 MBTI 社区中可能被视为"截然相反、完全不合"的组合，但 Socionics 认为这种互补性正是最佳关系的基础
+2. **脆弱功能 Ti**：Socionics 强调 IEE 对形式逻辑、严格分类和定义一致性方面的批评尤其敏感
+3. **暗示功能 Si**：IEE 重视来自他人的舒适照料、身体节奏和稳定日常，但自己较难持续地主导这一领域
 4. "**顾问**"**角色**：Socionics 强调 IEE 在帮助他人发现可能性和潜能方面的天赋——他们是天然的"潜能发现者"，能在他人身上看到连当事人自己都没意识到的能力和方向
 5. **情感创造力**：Socionics 描述 IEE 的 Fi 创造功能不仅是"个人价值判断"，更是一种"关系创造力"——他们能在人际关系中创造独特的、有深度的情感连接方式
 
@@ -575,7 +575,7 @@ ENFP 在亲密关系中展现出一种独特的**热烈追求与深度承诺之�
 | 核心形象 | "热情倡导者/运动家"——强调激情和感染力 | "顾问/赫胥黎"——强调潜能发现和人际洞察 |
 | Ne 的描述 | 可能性探索、创新、联想 | 人的潜能发现、情境可能性、社会创新 |
 | Fi 的定位 | 辅助功能——价值筛选器 | 创造功能——关系深度的创造性建构 |
-| 弱点强调 | Si 劣势导致的惯例和细节困难 | Si 脆弱 + Ti 暗示——日常秩序和逻辑精确性双重困难 |
+| 弱点强调 | Si 劣势导致的惯例和细节困难 | Ti 脆弱 + Si 暗示——逻辑压力与稳定支持需求 |
 | 最佳配对 | 无强制性推荐 | SLI（ISTJ）——二元关系 |
 | 社会角色 | 创新者、创业者、倡导者 | 潜能发现者、人际顾问、跨领域连接者 |
 

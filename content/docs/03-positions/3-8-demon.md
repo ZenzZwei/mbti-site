@@ -526,6 +526,8 @@ ENTP 和 ENFP 的劣势是 Si，他们的第八功能位 Se 表现为：
 
 恶魔/天使（第八功能位）是功能栈最深层的位置——心理"地下室"的最底层。它与劣势功能共享认知维度但在阴影中运作，因此在极端压力下可能以最具破坏性的方式爆发。然而 Beebe 以"Daimon"（守护灵）命名它，暗示了它的终极转化潜力：当一个人真正整合了第八功能的能量，它可以从毁灭性力量转化为最深层的守护和智慧——这是个体化旅程的最高阶段之一，也是大多数人终生都在趋近而未必完全达到的境界。
 
+## 参考文献与延伸阅读
+
 ### 核心文献
 
 | 作者 | 著作 | 与本章的关系 |
@@ -554,6 +556,6 @@ ENTP 和 ENFP 的劣势是 Si，他们的第八功能位 Se 表现为：
 | 灵魂的暗夜 | St. John of the Cross, *Dark Night of the Soul* (16世纪)；Gerald May, *The Dark Night of the Soul* (2004) |
 | Demon/Daimon 原型 | Patrick Harpur, *Daimonic Reality* (1994) |
 | 荣格的无意识对质 | Sonu Shamdasani (ed.), *The Red Book* (2009)——荣格的原始手稿 |
-| 极端压力下的心理动力学 | 详见模块六 [6-2](../06-dynamics/6-2-grip.md) Grip 体验全解析 |
-| 功能栈位置的完整理论 | 本模块全部八篇：[3-1](./3-1-dominant.md) 英雄 ~ [3-8](./3-8-demon.md) 恶魔/天使 |
+| 极端压力下的心理动力学 | 详见模块六 [6-2]({{% relref "/docs/06-dynamics/6-2-grip.md" %}}) Grip 体验全解析 |
+| 功能栈位置的完整理论 | 本模块全部八篇：[3-1]({{% relref "/docs/03-positions/3-1-dominant.md" %}}) 英雄 ~ [3-8]({{% relref "/docs/03-positions/3-8-demon.md" %}}) 恶魔/天使 |
 | 个体化过程 | Murray Stein, *Jung's Map of the Soul* (1998) |

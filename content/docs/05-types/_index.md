@@ -5,7 +5,7 @@ weight: 5
 
 本模块为每种人格类型提供约 18,000 字的深度画像，涵盖完整的八功能栈分析（含阴影功能）、核心认知动力学、发展路径、常见误区、人际关系模式和职业倾向。
 
-### NT 组 · 分析师
+## NT 组 · 分析师
 
 {{< cards cols="2" >}}
   {{< card link="5-01-INTJ" title="INTJ" subtitle="Ni-Te-Fi-Se · 远见卓识的系统架构师" >}}
@@ -14,7 +14,7 @@ weight: 5
   {{< card link="5-04-ENTP" title="ENTP" subtitle="Ne-Ti-Fe-Si · 可能性海洋的辩论航海家" >}}
 {{< /cards >}}
 
-### NF 组 · 外交家
+## NF 组 · 外交家
 
 {{< cards cols="2" >}}
   {{< card link="5-05-INFJ" title="INFJ" subtitle="Ni-Fe-Ti-Se · 洞见人心的宁静引导者" >}}
@@ -23,7 +23,7 @@ weight: 5
   {{< card link="5-08-ENFP" title="ENFP" subtitle="Ne-Fi-Te-Si · 可能性花园的热忱播种者" >}}
 {{< /cards >}}
 
-### SJ 组 · 守护者
+## SJ 组 · 守护者
 
 {{< cards cols="2" >}}
   {{< card link="5-09-ISTJ" title="ISTJ" subtitle="Si-Te-Fi-Ne · 经验为基的坚实守护者" >}}
@@ -32,7 +32,7 @@ weight: 5
   {{< card link="5-12-ESFJ" title="ESFJ" subtitle="Fe-Si-Ne-Ti · 温暖秩序的社交凝聚者" >}}
 {{< /cards >}}
 
-### SP 组 · 探险家
+## SP 组 · 探险家
 
 {{< cards cols="2" >}}
   {{< card link="5-13-ISTP" title="ISTP" subtitle="Ti-Se-Ni-Fe · 冷静精准的实操分析师" >}}

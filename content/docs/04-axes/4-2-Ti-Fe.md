@@ -14,7 +14,7 @@ weight: 2
 
 ## 引言
 
-如果说 Te-Fi 轴是"效率与意义"的冲突（参见 [4-1](./4-1-Te-Fi.md)），那么 Ti-Fe 轴则是"真理与和谐"的永恒对立。这条轴承载着人类文明中最深刻的认知张力之一：**当一个逻辑上正确的结论会伤害群体和谐时，你选择说真话还是维护关系？**
+如果说 Te-Fi 轴是"效率与意义"的冲突（参见 [4-1]({{% relref "/docs/04-axes/4-1-Te-Fi.md" %}})），那么 Ti-Fe 轴则是"真理与和谐"的永恒对立。这条轴承载着人类文明中最深刻的认知张力之一：**当一个逻辑上正确的结论会伤害群体和谐时，你选择说真话还是维护关系？**
 
 🔴 荣格在《心理类型》中对思维和情感的对立论述同样适用于 Ti-Fe 轴。但 Ti-Fe 与 Te-Fi 有一个关键的方向差异：
 
@@ -198,7 +198,7 @@ weight: 2
 
 ### 4.1 完整映射表
 
-🔵🟢 Ti-Fe 轴在 16 种类型中的分布：
+🔵🟢 以下列出以 Ti-Fe 为主栈判断轴的 8 种类型：
 
 | 类型 | Ti 位置 | Fe 位置 | 轴的运作特征 |
 |------|---------|---------|------------|
@@ -374,8 +374,8 @@ Ti-Fe 轴可能是四条功能轴中**受文化环境影响最深**的一条—�
 
 | 八维系统 | Socionics 对应 | Socionics 名称 |
 |---------|--------------|---------------|
-| **Ti** | ⬜ L（白色逻辑） | Structural Logic / 结构逻辑 |
-| **Fe** | ⬛ E（黑色伦理） | Ethics of Emotions / 情感伦理 |
+| **Ti** | **L** | Structural Logic / 结构逻辑 |
+| **Fe** | **E** | Ethics of Emotions / 情感伦理 |
 
 🔵 Socionics 对这对信息元素的描述：
 
@@ -401,8 +401,8 @@ Ti-Fe 轴可能是四条功能轴中**受文化环境影响最深**的一条—�
 🔵 Socionics 对 L-E（≈Ti-Fe）关系的独特贡献：
 
 1. **Quadra 氛围**：Alpha Quadra 的讨论氛围是"温暖的智识交流"——这正是 Ti-Fe 轴最佳整合的体现（逻辑+温暖）。Beta Quadra 的氛围则是"激情的集体行动"——Ti-Fe 以另一种方式整合（结构+激励）
-2. **对偶互补**：在 Dual 关系中，一方的 Leading L 与另一方的 Suggestive E 形成互补——例如 INTP（Leading L）与 ESFJ（Suggestive L）构成对偶
-3. **超我压力**：L 和 E 之间的冲突在 Socionics 的超我关系（Conflicting/Super-Ego）中达到最大——这为理解 Ti-Fe 轴的极端冲突提供了关系类型学的框架
+2. **对偶互补**：在 Dual 关系中，一方的 Leading L 对接另一方的 Suggestive L，同时对方的 Leading E 对接前者的 Suggestive E——例如 LII（约 INTP）与 ESE（约 ESFJ）构成对偶
+3. **关系压力**：L 和 E 信息在冲突关系与超我关系中会以不同方式产生张力——这为理解 Ti-Fe 相关冲突提供了关系类型学的框架
 
 ---
 
@@ -431,8 +431,8 @@ Ti-Fe 轴可能是四条功能轴中**受文化环境影响最深**的一条—�
 
 | 主题 | 推荐资源 |
 |------|---------|
-| Ti 和 Fe 的深度解析 | 参见本系列 [2-6](../02-functions/2-6-Ti.md) Ti 内倾思维、[2-7](../02-functions/2-7-Fe.md) Fe 外倾情感 |
+| Ti 和 Fe 的深度解析 | 参见本系列 [2-6]({{% relref "/docs/02-functions/2-6-Ti.md" %}}) Ti 内倾思维、[2-7]({{% relref "/docs/02-functions/2-7-Fe.md" %}}) Fe 外倾情感 |
 | 独立思考与群体动力学 | Irving Janis, *Groupthink* (1972)——群体思维的经典研究 |
 | 苏格拉底式对话 | Plato, *Apology*——Ti-Fe 轴悲剧的原型叙事 |
-| 与其他轴的比较 | [4-1](./4-1-Te-Fi.md) Te-Fi 轴、[4-3](./4-3-Se-Ni.md) Se-Ni 轴、[4-4](./4-4-Si-Ne.md) Si-Ne 轴 |
+| 与其他轴的比较 | [4-1]({{% relref "/docs/04-axes/4-1-Te-Fi.md" %}}) Te-Fi 轴、[4-3]({{% relref "/docs/04-axes/4-3-Se-Ni.md" %}}) Se-Ni 轴、[4-4]({{% relref "/docs/04-axes/4-4-Si-Ne.md" %}}) Si-Ne 轴 |
 | 科学中的社交与真理 | Thomas Kuhn, *The Structure of Scientific Revolutions* (1962) |

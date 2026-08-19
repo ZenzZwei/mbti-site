@@ -585,10 +585,10 @@ Loop 模式：**Te → Se → Te → Se → ……**（行动被即时反馈驱�
 
 ### 14.1 Socionics 中的对应类型
 
-🔵 ENTJ 在 Socionics 中对应的类型是 **LIE**（Logical Intuitive Extrovert），也被称为 **Jack London** 或 **The Enterpriser**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ENTJ 通常与 Socionics 的 **LIE**（Logical Intuitive Extrovert）对照；LIE 也被称为 **Jack London** 或 **The Enterpriser**。
 
 > [!WARNING]
-> 注意：MBTI 的 ENTJ 直接对应 Socionics 的 ENTj（外倾型的 J/P 两个体系一致）。详见 [1-3](../01-fundamentals/1-3-socionics-comparison.md)。
+> 注意：在上述近似映射中，MBTI 的 ENTJ 对照 Socionics 的 ENTj；外倾型的 J/P 字母不反转，但这不表示两套类型定义或完整功能序列相同。详见 [1-3]({{% relref "/docs/01-fundamentals/1-3-socionics-comparison.md" %}})。
 
 ### 14.2 Model A 功能栈对比
 
@@ -596,24 +596,24 @@ Loop 模式：**Te → Se → Te → Se → ……**（行动被即时反馈驱�
 |------|-----------|---------------|
 | 主导 (1st) | Te | Te（基础功能/Leading） |
 | 辅助 (2nd) | Ni | Ni（创造功能/Creative） |
-| 角色 (3rd) | — | Fi（角色功能/Role） |
+| 角色 (3rd) | — | Fe（角色功能/Role） |
 | 脆弱 (4th) | — | Si（脆弱功能/PoLR） |
-| 暗示 (5th) | — | Fe（暗示功能/Suggestive） |
+| 暗示 (5th) | — | Fi（暗示功能/Suggestive） |
 | 激活 (6th) | — | Se（激活功能/Mobilizing） |
 | 忽视 (7th) | — | Ti（忽视功能/Ignoring） |
 | 示范 (8th) | — | Ne（示范功能/Demonstrative） |
 
 🔵 **关键差异**：
 - **PoLR（最弱功能）**：Socionics 认为 LIE 的最弱功能是 **Si**——意味着 ENTJ 在"日常维护、身体舒适、内在稳定性"方面最脆弱。这与 MBTI 中 ENTJ 常被描述的"忽视健康和身体信号"高度一致
-- **暗示功能是 Fe**：LIE 特别渴望温暖的社交氛围——虽然表面上看起来强势独立，内心深处渴望"被温暖地接纳"
-- **对偶关系**：LIE 的对偶是 **ESI (ISFj/ISFP)**——Fi-Se 主导型提供 LIE 最需要的 Fi 情感深度和 Si 日常关怀
+- **暗示功能是 Fi**：LIE 特别重视来自他人的关系判断、个人价值确认和稳定忠诚——虽然表面上强势独立，仍需要可信赖的关系支持
+- **对偶关系**：LIE 的对偶是 **ESI (ISFj/ISFP)**——ESI 的 Fi-Se 为 LIE 提供其暗示 Fi 和动员 Se 所需要的关系判断与现实支持
 
 ### 14.3 Socionics 对 LIE 的不同侧重
 
 | 维度 | MBTI 社区对 ENTJ 的侧重 | Socionics 对 LIE 的侧重 |
 |------|------------------------|------------------------|
 | **核心标签** | "统帅/指挥官"——强调领导力 | "企业家/杰克·伦敦"——强调冒险和进取精神 |
-| **核心驱动** | 效率和控制 | 效率和**时间——"**在正确的时间做正确的事**"** |
+| **核心驱动** | 效率和控制 | 效率和时间——"**在正确的时间做正确的事**" |
 | **对偶需求** | 不使用此概念 | 特别需要 ISFp (ISFP) 的温暖关怀和情感支持 |
 | **整体基调** | 偏"组织领导者" | 偏"商业冒险家"——更强调 Ni 的时机把握 |
 

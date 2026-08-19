@@ -149,7 +149,7 @@ weight: 2
 - MBTI **不是**严格的学术心理学黄金标准（不如大五人格被学界广泛接受）
 - 但它也**不是**星座水平的伪科学
 - 八维模型的实证基础弱于 MBTI，但理论逻辑更精细
-- **🟡 个人推测**：最合理的态度是"不完美但有用的认知框架"（详见 [8-1](../08-academic/8-1-history.md)）
+- **🟡 个人推测**：最合理的态度是"不完美但有用的认知框架"（详见 [8-1]({{% relref "/docs/08-academic/8-1-history.md" %}})）
 
 ---
 
@@ -159,7 +159,7 @@ weight: 2
 
 - 传统 MBTI 只讨论前四个功能，造成了"人只有四个功能"的错觉
 - 阴影功能（第5-8位）不是"不存在"，而是**通常处于无意识/较低发展状态**
-- 压力大时阴影功能会以扭曲形式爆发（如 INFJ 的 Se 恶魔 → 暴饮暴食/感官放纵）
+- 压力大时非偏好功能可能以扭曲形式爆发（如 INFJ 的 Se 劣势在 Grip 状态下表现为暴饮暴食或感官放纵；INFJ 的恶魔功能则是 Si）
 
 | 位置 | 名称 | INTJ 示例 | 意识程度 |
 |------|------|----------|---------|
@@ -203,7 +203,7 @@ weight: 2
 
 ### Q12：Socionics 和 MBTI 的类型字母可以直接对应？
 
-**🔵 后人诠释**：虽然 Socionics 和 MBTI 使用相似的四字母代码，但在**内倾判断型**上存在 J/P 对调问题：
+**🔵 后人诠释**：不能仅凭相似的四字母代码把 Socionics 与 MBTI 类型直接等同。若按本站采用的前两位功能排列作近似映射，内倾类型还会出现 J/P 对调：
 
 | MBTI | Socionics | 主导功能 |
 |------|-----------|---------|
@@ -215,11 +215,11 @@ weight: 2
 | ISFJ | ISFp（SEI） | Si |
 
 - 原因：MBTI 的 J/P 指**外显功能**是判断还是感知；Socionics 的 j/p 指**主导功能**是判断还是感知
-- 对于外倾型，两套系统一致（ENTP = ENTp = ILE）
+- 对于外倾型，J/P 字母不反转（例如 MBTI 的 ENTP 常与 ILE/ENTp 近似对照），但类型定义和完整功能序列仍不相同
 - 对于内倾型，J/P 反转
 - 这导致跨系统讨论时经常出现混乱，必须注明使用哪套系统
 
-详见 [1-3](../01-fundamentals/1-3-socionics-comparison.md) 八维与 Socionics 体系对比、[8-3](../08-academic/8-3-socionics.md) Socionics 深度专题。
+详见 [1-3]({{% relref "/docs/01-fundamentals/1-3-socionics-comparison.md" %}}) 八维与 Socionics 体系对比、[8-3]({{% relref "/docs/08-academic/8-3-socionics.md" %}}) Socionics 深度专题。
 
 ---
 
@@ -488,7 +488,7 @@ weight: 2
 - 只发展强势功能会导致"类型固着"（Type Rigidity），实际上增加了 Loop 和 Grip 的风险
 - 最佳发展策略：**以强势功能为基础，逐步有意识地发展非偏好功能**
 
-**推荐的发展顺序**（🔵 后人诠释，Thomson, 2009）：
+**常见的发展顺序概括**（🔵 后人诠释）：
 1. 青少年期：巩固主导功能
 2. 青年期：发展辅助功能
 3. 中年期：整合第三功能和劣势功能
@@ -589,7 +589,7 @@ weight: 2
 
 | 书名 | 作者 | 出版年 | 简要评价 |
 |------|------|--------|---------|
-| *Personality Type: Jung on the Bridge* | Daryl Sharp | 1987 | 从荣格原文出发解读类型学，篇幅短但信息密度高。适合想了解"MBTI 和荣格到底有什么不同"的读者 |
+| *Personality Types: Jung's Model of Typology* | Daryl Sharp | 1987 | 从荣格原文出发解读类型学，篇幅短但信息密度高。适合想了解"MBTI 和荣格到底有什么不同"的读者 |
 | *Energies and Patterns in Psychological Type* | John Beebe | 2017 | **Beebe 模型权威之作**。8功能×8原型理论的全面阐述，学术性强但读起来偶尔晦涩 |
 | *Neuroscience of Personality* | Dario Nardi | 2011 | 将 EEG 脑电数据与16型关联的开创性作品。方法论有争议，但视角独特，图表精美 |
 | *Psychological Types* (CW6) | C.G. Jung | 1921/1971 | 荣格类型学原著。极其重要但**极难读**（翻译生硬、论述迂回）。建议不要作为第一本书，但作为进阶参考不可替代 |
@@ -601,11 +601,9 @@ weight: 2
 
 | 书名 | 作者 | 出版年 | 简要评价 |
 |------|------|--------|---------|
-| *MBTI Manual* (3rd ed.) | Isabel Myers, Mary McCaulley, Naomi Quenk & Allen Hammer | 2003 | MBTI 信效度研究的集大成者。适合需要引用数据的研究者和专业施测师 |
-| *Understanding Personality Type Through the Lens of the Eight-Function Model* | Multiple contributors | 2014 | Beebe 模型的多视角论文集。各章质量参差但整体有启发 |
-| *Psychological Type and Culture* | Thomas Kirby & Michael Kirby | 2017 | 探讨类型学在不同文化背景下的表现差异，填补了跨文化视角的空白 |
+| *MBTI Manual* (3rd ed.) | Isabel Myers, Mary McCaulley, Naomi Quenk & Allen Hammer | 1998 | MBTI 信效度研究的集大成者。适合需要引用数据的研究者和专业施测师 |
 | *Lectures on Jung's Typology* | Marie-Louise von Franz & James Hillman | 1971/2013 | von Franz 讲劣势功能的经典讲座记录。语言极富洞察力，但需要分析心理学基础 |
-| *The Psychology of the Transference* (CW16) | C.G. Jung | 1946/1966 | 深入超越功能（Transcendent Function）的运作机制。高度专业，非荣格学者慎入 |
+| *The Transcendent Function* (CW8) | C.G. Jung | 1916（初稿）/1958（修订稿） | 1957 年首刊；直接论述超越功能如何通过意识与无意识的对话促成心理转化。高度专业，非荣格学者慎入 |
 
 ---
 
@@ -654,8 +652,7 @@ weight: 2
 | "Jung's Model of Typology: A Retrospective" | Spoto, 1995 | 回顾荣格类型学的原始意图与后续偏移 | 🔵 |
 | "The Reliability and Validity of the MBTI Step II" | Quenk et al., 2001 | MBTI Step II（含分面量表）的技术报告 | 🔴 |
 | "Type and Archetype in the MBTI" | Beebe, 2004 | Beebe 八功能原型模型的正式论文发表 | 🔴 |
-| "The MBTI in Asia: Evidence and Implications" | Various, 2010+ | MBTI 在亚洲文化背景下的跨文化验证研究 | 🔵 |
-| "On the Validity of the MBTI: A Reply to Pittenger" | Garden, 1991 | 对 Pittenger 批评的系统回应 | 🔴 |
+| "An Empirical Evaluation of the MBTI Typology" | Lorr, 1991 | 使用聚类分析检验 MBTI 的 16 型分类结构 | 🔴 |
 | "Personality Types: Jung's Model of Typology" | Sharp, 1987 | 荣格类型学的学术化综述 | 🔵 |
 
 **检索建议**：
@@ -736,6 +733,8 @@ weight: 2
 10. McCrae, R.R. & Costa, P.T. (1989). Reinterpreting the Myers-Briggs Type Indicator from the Perspective of the Five-Factor Model. *Journal of Personality*, 57(1), 17-40.
 11. Sharp, D. (1987). *Personality Types: Jung's Model of Typology*. Inner City Books.
 12. von Franz, M.-L. & Hillman, J. (1971/2013). *Lectures on Jung's Typology*. Spring Publications.
-13. Myers, I.B., McCaulley, M.H., Quenk, N.L. & Hammer, A.L. (2003). *MBTI Manual* (3rd ed.). CPP.
+13. Myers, I.B., McCaulley, M.H., Quenk, N.L. & Hammer, A.L. (1998). *MBTI Manual* (3rd ed.). CPP.
 14. Witt, J.M. & Dodge, A. (2018). *Personality Hacker*. Ulysses Press.
 15. Stern, S. (2007). *Socionics Demystified*. Self-published.
+16. Lorr, M. (1991). An Empirical Evaluation of the MBTI Typology. *Personality and Individual Differences*, 12(11), 1141-1145. https://doi.org/10.1016/0191-8869(91)90077-O
+17. Jung, C. G. (1969). "The Transcendent Function" (written 1916; first published 1957; revised 1958). In *The Structure and Dynamics of the Psyche* (CW8, 2nd ed., pp. 67–91). Princeton University Press.

@@ -589,19 +589,11 @@ ISTP（Ti-Se-Ni-Fe）和 ISFP（Fi-Se-Ni-Te）共享 Se 辅助和 Ni 第三—�
 
 ### ISTP 在 Socionics 中的对应
 
-🔵 MBTI 的 ISTP 在 Socionics 中对应 **SLI（Sensory Logical Introvert，感觉逻辑内倾型）**，三字母代码为 **ISTp**（注意 Socionics 中内倾型的 J/P 转换规则）。
-
-**J/P 转换说明**：MBTI 的 ISTP 是 P 类型（因为外倾辅助功能 Se 是感知功能），但在 Socionics 中，类型标记基于**主导功能的判断/感知属性**。🔴 实际上这里需要更仔细地分析：ISTP 的主导功能 Ti 是判断/理性功能，因此在 Socionics 中应标记为 j...
-
-🟢 **但实际对应更为复杂**：在 Socionics 传统对应中，MBTI 的 ISTP 通常被映射为 **SLI（ISTp）**，其功能排列为 Si-Te——这与 MBTI ISTP 的 Ti-Se **不一致**。这是因为两个系统对内倾型的 J/P 定义不同导致的映射混乱。
-
-如果严格按照功能排列对应，MBTI ISTP（Ti-Se）更接近 Socionics 的 **LSI（ISTj）**——逻辑感觉内倾型，功能排列为 Ti-Se。但传统的字母对应将 MBTI ISTP 映射为 SLI（ISTp）。
-
-🟡 **这种混乱恰恰体现了 MBTI 与 Socionics 之间映射的根本困难**——两个系统虽然都源于荣格的类型学，但在具体的功能排列和 J/P 定义上存在根本性差异。本文采用**功能排列一致**的映射原则，将 MBTI ISTP 对应到 Socionics **LSI**（Ti-Se）。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ISTP（Ti-Se）通常与 Socionics 的 **LSI（Logical Sensory Introvert，逻辑感觉内倾型）**对照，三字母代码为 **ISTj**。仅按字母映射会把 ISTP 与 SLI（ISTp）相连，但 SLI 的前两位功能是 Si-Te，不符合本文采用的映射原则。
 
 | 对比维度 | MBTI ISTP | Socionics LSI (ISTj) |
 |----------|-----------|---------------------|
-| 功能栈 | Ti-Se-Ni-Fe | Ti-Se（一维功能对应一致） |
+| 功能栈 | Ti-Se-Ni-Fe | Ti-Se（前两位功能对应一致） |
 | 类型名称 | 鉴赏家/Virtuoso | 督察/The Inspector（有时称 Maxim Gorky） |
 | 对偶类型（Dual） | — | EIE（ENFJ 的 Socionics 对应） |
 | 关系轴 | — | Ti+Se → 与 Fe+Ni（EIE）互补 |
