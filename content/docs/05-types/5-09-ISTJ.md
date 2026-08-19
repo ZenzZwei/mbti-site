@@ -530,18 +530,18 @@ ISTJ 在亲密关系中展现出一种独特的**行动胜于言辞**的深沉�
 
 ### Socionics 中的对应类型
 
-🔵 在 Socionics 体系中，MBTI 的 ISTJ 对应的是 **LSI（Logical Sensory Introvert）**，又名**马克西姆·高尔基（Maxim Gorky）**或**检查者（The Inspector）**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ISTJ 通常与 Socionics 的 **SLI（Sensory Logical Introvert）**对照；SLI 又名**让·迦本（Jean Gabin）**或**手工匠人（The Craftsman）**。
 
 ⚠️ **重要注意**：由于 Socionics 对内向型使用不同的 J/P 标记约定：
 - MBTI ISTJ → 功能栈 Si-Te-Fi-Ne
-- Socionics ISTp (SLI) → 功能栈 Si-Te-Fi-Ne（与 MBTI ISTJ 相同的功能栈）
-- Socionics ISTj (LSI) → 功能栈 Ti-Se-Ni-Fe（对应 MBTI ISTP 的功能栈）
+- Socionics ISTp (SLI) → Ego 功能为 Si-Te（与 MBTI ISTJ 的前两位功能对应）
+- Socionics ISTj (LSI) → Ego 功能为 Ti-Se（与 MBTI ISTP 的前两位功能对应）
 
-因此，**MBTI 的 ISTJ 在 Socionics 中对应的是 SLI（ISTp）**，而非 LSI（ISTj）。
+因此，按本文采用的映射原则，**MBTI 的 ISTJ 通常与 SLI（ISTp）近似对照**，而非 LSI（ISTj）。
 
-### Socionics SLI（让·加班 / The Craftsman）
+### Socionics SLI（让·迦本 / The Craftsman）
 
-🔵 SLI 在 Socionics 中也被称为"加班"（Jean Gabin，以法国演员让·加班命名）或"手工匠人"（The Craftsman）。
+🔵 SLI 在 Socionics 中也被称为"迦本"（Jean Gabin，以法国演员让·迦本命名）或"手工匠人"（The Craftsman）。
 
 **Model A 功能栈对比：**
 
@@ -549,31 +549,31 @@ ISTJ 在亲密关系中展现出一种独特的**行动胜于言辞**的深沉�
 |-----------------|-----------|----------------|
 | 主导功能（Leading） | Si 内倾感觉 | 第一功能（英雄） |
 | 创造功能（Creative） | Te 外倾思维 | 第二功能（好父母） |
-| 角色功能（Role） | Fi 内倾情感 | ≈ 第三功能 |
-| 脆弱功能（Vulnerable） | Ne 外倾直觉 | ≈ 第四功能（劣势） |
-| 暗示功能（Suggestive） | Fe 外倾情感 | — |
-| 动员功能（Mobilizing） | Ni 内倾直觉 | — |
-| 忽视功能（Ignoring） | Se 外倾感觉 | ≈ 第五功能 |
-| 示范功能（Demonstrative） | Ti 内倾思维 | ≈ 第六功能 |
+| 角色功能（Role） | Ni 内倾直觉 | 第八功能（恶魔/天使） |
+| 脆弱功能（Vulnerable） | Fe 外倾情感 | 第七功能（欺骗者） |
+| 暗示功能（Suggestive） | Ne 外倾直觉 | 第四功能（劣势） |
+| 动员功能（Mobilizing） | Fi 内倾情感 | 第三功能 |
+| 忽视功能（Ignoring） | Se 外倾感觉 | 第五功能（对立人格） |
+| 示范功能（Demonstrative） | Ti 内倾思维 | 第六功能（批判父母） |
 
 ### Socionics 的不同侧重
 
 🔵 Socionics 对 SLI 类型的描述与 MBTI 的 ISTJ 有一些不同的侧重：
 
-1. **二元关系（Duality）**：SLI 的对偶（Dual）类型是 **IEE（外倾直觉情感型，对应 MBTI ENFP）**。Socionics 认为 IEE 的 Ne-Fi 恰好弥补了 SLI 在可能性探索和情感表达方面的不足，而 SLI 的 Si-Te 为 IEE 提供了稳定的日常秩序和实际执行力
+1. **二元关系（Duality）**：SLI 的对偶（Dual）类型是 **IEE（外倾直觉情感型，对应 MBTI ENFP）**。Socionics 认为 IEE 的 Ne-Fi 回应了 SLI 的 Ne 暗示和 Fi 动员需求，而 SLI 的 Si-Te 为 IEE 提供稳定的日常秩序和实际执行力
 2. "**手工匠人**"**标签**：与 MBTI 的"检查者"或"义务履行者"标签不同，Socionics 的"手工匠人"更突出 SLI 对**物质世界的精细掌控和舒适创造**——他们不只是"遵循规则"，更是"用双手创造可靠而舒适的现实"
-3. **脆弱功能 Ne**：Socionics 强调 SLI 对"不确定性和模糊未来"的特别脆弱——他们不仅不擅长探索可能性，而且对这方面的批评和要求感到特别痛苦
-4. **暗示功能 Fe**：SLI 被认为在"情感表达和群体氛围创造"方面需要外部帮助——他们渴望更丰富的情感生活和社交活力，但自己难以主动创造
+3. **暗示功能 Ne**：SLI 重视来自他人的新可能性和发展选项，但自己较难持续地主导发散探索
+4. **脆弱功能 Fe**：SLI 对强烈情绪表达、群体气氛要求和情感展示方面的批评尤其敏感
 5. **身体舒适的重视**：Socionics 比 MBTI 更强调 SLI 对身体舒适和物理环境质量的关注——这是 Si 主导在 Socionics 框架中的一个重要表达
 
 ### 🔵 Socionics 与 MBTI ISTJ 描述的主要差异
 
 | 方面 | MBTI ISTJ 侧重 | Socionics SLI 侧重 |
 |------|---------------|-------------------|
-| 核心形象 | "检查者/义务履行者"——强调责任和规则遵守 | "手工匠人/加班"——强调物质世界的精细掌控 |
+| 核心形象 | "检查者/义务履行者"——强调责任和规则遵守 | "手工匠人/迦本"——强调物质世界的精细掌控 |
 | Si 的描述 | 经验记忆、惯例维护、标准意识 | 身体舒适感知、物质环境质量、内在安定 |
 | Te 的定位 | 辅助功能——系统化和效率化的工具 | 创造功能——通过效率和组织来创造价值 |
-| 弱点强调 | Ne 劣势导致的变化抗拒和灾难化思维 | Ne 脆弱 + Fe 暗示——可能性探索和情感表达双重困难 |
+| 弱点强调 | Ne 劣势导致的变化抗拒和灾难化思维 | Fe 脆弱 + Ne 暗示——情绪压力与可能性支持需求 |
 | 最佳配对 | 无强制性推荐 | IEE（ENFP）——二元关系 |
 | 社会角色 | 行政管理者、审计师、执行者 | 工匠、品质管理者、稳定维护者 |
 

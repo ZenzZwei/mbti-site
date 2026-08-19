@@ -659,11 +659,11 @@ ESFP 和 ESTP 共享 Se 主导，是所有类型中最"相似"的一对——但
 
 ## 14. Socionics 对应与参考文献
 
-### 14.1 Socionics 中的 ESFP 对应：SEE（ESFp）
+### 14.1 Socionics 中的 ESFP 近似对照：SEE（ESFp）
 
-在 Socionics 体系中，MBTI 的 ESFP 对应 **SEE**（旧名 ESFp），全称 **Sensory-Ethical Extrovert**，又名"政治家"（Politician）或"拿破仑"（Napoleon）。
+按前两位功能排列作近似映射时，MBTI 的 ESFP 通常与 Socionics 的 **SEE**（旧名 ESFp）对照。SEE 全称 **Sensory-Ethical Extrovert**，又名"政治家"（Politician）或"拿破仑"（Napoleon）。
 
-> 🔵 **后人诠释**：MBTI 与 Socionics 的对应关系中，外向类型的 J/P 通常保持一致。ESFP（MBTI）= ESFp（Socionics）= SEE，主导功能均为 Se。
+> 🔵 **后人诠释**：在上述近似映射中，MBTI 的 ESFP 常与 Socionics 的 SEE（ESFp）对照，两者的前两位功能均为 Se-Fi。外向型的 J/P 字母不反转，但这不表示两套类型定义或完整功能序列相同。
 
 ### 14.2 MBTI ESFP 与 Socionics SEE 对比
 
@@ -674,7 +674,7 @@ ESFP 和 ESTP 共享 Se 主导，是所有类型中最"相似"的一对——但
 | **功能模型** | Beebe 8 功能模型 | Model A 8 功能模型 |
 | **核心标签** | 表演者 / 体验者 | 政治家 / 拿破仑 |
 | **关系理论** | 有限的类型互动理论 | 完整的 Intertype Relations 体系 |
-| **二元关系（Dual）** | 无官方概念 | ILI（INTp）= MBTI 的 INTJ |
+| **二元关系（Dual）** | 无官方概念 | ILI（INTp；常近似对照 MBTI 的 INTJ） |
 
 ### 14.3 SEE 在 Socionics Model A 中的功能配置
 
@@ -682,12 +682,12 @@ ESFP 和 ESTP 共享 Se 主导，是所有类型中最"相似"的一对——但
 |-------------|------|------|
 | **主导 (1)** | Se | 程序功能——意志力、行动力、环境控制 |
 | **创造 (2)** | Fi | 创造功能——关系伦理、价值判断 |
-| **角色 (3)** | Te | 角色功能——在需要时展示组织能力 |
-| **脆弱 (4)** | Ni | 脆弱功能——时间感、远见、长期预判 |
-| **暗示 (5)** | Si | 暗示功能——渴望舒适和稳定的照料 |
-| **动员 (6)** | Fe | 动员功能——情感表达的激活 |
-| **忽视 (7)** | Ti | 忽视功能——逻辑分析的有意忽视 |
-| **示范 (8)** | Ne | 示范功能——可能性感知的背景运作 |
+| **角色 (3)** | Ne | 角色功能——在需要时展示可能性探索 |
+| **脆弱 (4)** | Ti | 脆弱功能——形式逻辑与结构分析 |
+| **暗示 (5)** | Ni | 暗示功能——渴望时间感和长期方向的支持 |
+| **动员 (6)** | Te | 动员功能——外部效率与事实判断的激活 |
+| **忽视 (7)** | Si | 忽视功能——有能力处理但不优先关注舒适稳定 |
+| **示范 (8)** | Fe | 示范功能——情感表达与氛围调节的背景运作 |
 
 ### 14.4 SEE 的二元关系（Duality）
 
@@ -696,8 +696,8 @@ Socionics 理论认为 SEE（ESFP）的**理想互补类型（Dual）**是 **ILI
 **互补逻辑**：
 - SEE 的 Se 主导 + ILI 的 Ni 主导 = Se-Ni 轴的完美互补
 - SEE 的 Fi 辅助 + ILI 的 Te 辅助 = Fi-Te 轴的价值-效率互补
-- SEE 的 Ni 脆弱功能被 ILI 的 Ni 主导所支持
-- ILI 的 Se 脆弱功能被 SEE 的 Se 主导所激活
+- SEE 的 Ni 暗示功能被 ILI 的 Ni 主导所支持
+- ILI 的 Se 暗示功能被 SEE 的 Se 主导所支持
 
 > 🟢 **社区共识**：SEE-ILI（ESFP-INTJ）的二元关系在 Socionics 社区中被视为"行动与远见"的互补——SEE 提供即时行动力和人际感染力，ILI 提供战略远见和系统分析。但需注意，Socionics 的二元理论是理论模型，现实关系远比类型匹配复杂。
 
@@ -706,7 +706,7 @@ Socionics 理论认为 SEE（ESFP）的**理想互补类型（Dual）**是 **ILI
 | 关系类型 | 对应 Socionics 类型 | MBTI 近似 | 关系特征 |
 |----------|---------------------|-----------|----------|
 | **二元 (Dual)** | ILI (INTp) | INTJ | 最佳互补——行动+远见 |
-| **活化 (Activation)** | EII (INFj) | INFP | 相互激活但需调适 |
+| **活化 (Activation)** | LIE (ENTj) | ENTJ | 相互激活但需调适 |
 | **镜像 (Mirror)** | ESI (ISFj) | ISFP | 相似但视角互补 |
 | **同一 (Identity)** | SEE (ESFp) | ESFP | 深度理解但可能竞争 |
 | **冲突 (Conflicting)** | LII (INTj) | INTP | 认知方式根本冲突 |

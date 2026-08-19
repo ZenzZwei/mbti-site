@@ -174,7 +174,7 @@ Ni-Te 的协作模式可以理解为：
 
 ### 4.4 中年后的 Fi 发展方向
 
-🔵 根据荣格的功能发展理论和 Von Franz 的劣势功能研究，INTJ 的 Fi 通常在**30-40 岁之间**开始显著发展：
+🔵 根据荣格的功能发展理论和 von Franz 的劣势功能研究，INTJ 的 Fi 通常在**30-40 岁之间**开始显著发展：
 
 - **从"高效"到"有意义"**：不再只追问"这样做最优吗？"（Ni-Te），而是越来越多地追问"这对我来说真正重要吗？"（Fi）
 - **情感关系的深化**：从"功能性关系"（这个人对我的目标有用）到"价值性关系"（这个人的存在本身对我有意义）
@@ -627,10 +627,10 @@ Loop 模式：**Ni → Fi → Ni → Fi → ……**（内在愿景只在内在�
 
 ### 14.1 Socionics 中的对应类型
 
-🔵 INTJ 在 Socionics 中对应的类型是 **ILI**（Intuitive Logical Introvert），也被称为 **Balzac** 或 **The Critic**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 INTJ 通常与 Socionics 的 **ILI**（Intuitive Logical Introvert）对照；ILI 也被称为 **Balzac** 或 **The Critic**。
 
 > [!CAUTION]
-> **J/P 转换注意**：MBTI 的 INTJ 对应 Socionics 的 INTp（小写 p），因为 Socionics 对内倾型的 J/P 分配与 MBTI 相反。详见 [1-3](../01-fundamentals/1-3-socionics-comparison.md)。
+> **J/P 转换注意**：在上述近似映射中，MBTI 的 INTJ 对照 Socionics 的 INTp（小写 p），因为 Socionics 对内倾型的 J/P 分配与 MBTI 相反。详见 [1-3]({{% relref "/docs/01-fundamentals/1-3-socionics-comparison.md" %}})。
 
 ### 14.2 Model A 功能栈对比
 
@@ -638,9 +638,9 @@ Loop 模式：**Ni → Fi → Ni → Fi → ……**（内在愿景只在内在�
 |------|-----------|---------------|
 | 主导 (1st) | Ni | Ni（基础功能/Leading） |
 | 辅助 (2nd) | Te | Te（创造功能/Creative） |
-| 角色 (3rd) | — | Se（角色功能/Role） |
+| 角色 (3rd) | — | Si（角色功能/Role） |
 | 脆弱 (4th) | — | Fe（脆弱功能/PoLR） |
-| 暗示 (5th) | — | Si（暗示功能/Suggestive） |
+| 暗示 (5th) | — | Se（暗示功能/Suggestive） |
 | 激活 (6th) | — | Fi（激活功能/Mobilizing） |
 | 忽视 (7th) | — | Ne（忽视功能/Ignoring） |
 | 示范 (8th) | — | Ti（示范功能/Demonstrative） |
@@ -648,7 +648,7 @@ Loop 模式：**Ni → Fi → Ni → Fi → ……**（内在愿景只在内在�
 🔵 **关键差异**：
 - MBTI 的 INTJ 第三功能是 **Fi**，在 Socionics 的 ILI 中 Fi 处于**激活功能**（第 6 位）——意味着 ILI 对来自他人的 Fi 输入（个人价值确认、情感深度）特别渴望，但自己不擅长提供
 - Socionics 的 ILI 最弱功能（PoLR）是 **Fe**——这与 MBTI 模型中 INTJ 的 Fe 处于第 7 位（欺骗者）高度一致——Fe 是两个体系都认同的最大盲区
-- Socionics 的 ILI **暗示功能是 Si**——这意味着 ILI 特别需要但又依赖他人提供"舒适/稳定的日常"，这与 MBTI 中 INTJ 的 Si 第 8 位（恶魔/天使）的特征有有趣的呼应
+- Socionics 的 ILI **暗示功能是 Se**——这意味着 ILI 重视并依赖来自他人的行动力、现实推动和力量支持；这与 MBTI 中 INTJ 的 Se 劣势形成了可比较但含义不同的弱功能位置
 
 ### 14.3 Socionics 对 ILI 的不同侧重
 

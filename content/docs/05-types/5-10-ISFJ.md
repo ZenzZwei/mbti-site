@@ -561,17 +561,15 @@ ISFJ（Si-Fe-Ti-Ne）和 ISTJ（Si-Te-Fi-Ne）共享 Si 主导和 Ne 劣势—�
 
 ### ISFJ 在 Socionics 中的对应
 
-🔵 MBTI 的 ISFJ 在 Socionics 中对应 **ESI（Ethical Sensing Introvert，伦理感觉内倾型）**，三字母代码为 **ISFj**（注意 Socionics 中内倾型的 J/P 转换规则）。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ISFJ 通常与 Socionics 的 **SEI（Sensory Ethical Introvert）**对照，两者的前两位功能均为 Si-Fe。SEI 的三字母代码是 **ISFp**。
 
-**J/P 转换说明**：MBTI 的 ISFJ 是 J 类型（因为外倾辅助功能 Fe 是判断功能），Socionics 根据**主导功能的判断/感知属性**来确定 j/p——ISFJ 的主导 Si 是感知功能，因此在 Socionics 中标记为 p... 🔴 **但实际上这里需要更仔细地分析**：
-
-在 Socionics 中，MBTI 的 ISFJ 对应的是 **SEI（Sensory Ethical Introvert）**，而非 ESI。SEI 的功能排列为 Si-Fe，与 MBTI ISFJ 的 Si-Fe 一致。SEI 的三字母代码是 **ISFp**（小写 p，因为主导功能 Si 是感知/非理性功能）。
+**J/P 转换说明**：MBTI 的 ISFJ 是 J 类型，因为其外倾辅助功能 Fe 是判断功能；Socionics 则根据主导功能的理性/非理性属性标注 j/p。SEI 的主导功能 Si 属于感知/非理性功能，因此标记为小写 p。
 
 🟢 ESI 实际上对应的是 MBTI 的 **ISFP**（Fi-Se）。这个区分非常重要：
 
 | 对比维度 | MBTI ISFJ | Socionics SEI (ISFp) |
 |----------|-----------|---------------------|
-| 功能栈 | Si-Fe-Ti-Ne | Si-Fe（一维功能对应一致） |
+| 功能栈 | Si-Fe-Ti-Ne | Si-Fe（前两位功能对应一致） |
 | 类型名称 | 守护者/Defender | 调解者/The Mediator（有时称 Dumas） |
 | J/P 标记 | J（基于外倾判断功能 Fe） | p（基于主导感知功能 Si） |
 | 对偶类型（Dual） | — | ILE（ENTP 的 Socionics 对应） |
@@ -583,8 +581,8 @@ ISFJ（Si-Fe-Ti-Ne）和 ISTJ（Si-Te-Fi-Ne）共享 Si 主导和 Ne 劣势—�
 |-------------|------|------|
 | 基础功能（1st） | Si | 核心——感官舒适、经验记忆 |
 | 创造功能（2nd） | Fe | 实现——人际和谐、情感表达 |
-| 角色功能（3rd） | Te | 社会面具——必要时展现效率 |
-| 脆弱功能（4th） | Ni | 痛点——长远直觉预判 |
+| 角色功能（3rd） | Ni | 社会面具——必要时展现长远预判 |
+| 脆弱功能（4th） | Te | 痛点——外部效率与事实标准 |
 | 暗示功能（5th） | Ne | 渴求——新可能性的输入 |
 | 动员功能（6th） | Ti | 内在结构——需要逻辑框架支持 |
 | 忽视功能（7th） | Se | 意识到但不优先——可使用但不愿依赖 |
@@ -595,9 +593,9 @@ ISFJ（Si-Fe-Ti-Ne）和 ISTJ（Si-Te-Fi-Ne）共享 Si 主导和 Ne 劣势—�
 🔵 值得注意的是，Beebe 的八功能模型与 Socionics 的 Model A 对 ISFJ/SEI 的功能排列**并不完全一致**：
 
 - **Beebe 模型**（MBTI）：Si-Fe-Ti-Ne | Se-Fi-Te-Ni（主栈+阴影，阴影是主栈的外倾/内倾翻转）
-- **Model A**（Socionics）：Si-Fe-Te-Ni | Ne-Ti-Se-Fi（分为自我/超我/超我我/本我四组）
+- **Model A**（Socionics）：Si-Fe-Ni-Te | Ne-Ti-Se-Fi（分为自我/超我/超本我/本我四组）
 
-🟡 关键差异在于第3-4功能的排列：Beebe 模型将 Ti-Ne 作为 ISFJ 的第3-4功能，而 Model A 将 Te-Ni 放在角色/脆弱位——两个系统基于不同的理论逻辑对功能进行了不同的排列。
+🟡 关键差异在于第3-4功能的排列：Beebe 模型将 Ti-Ne 作为 ISFJ 的第3-4功能，而 Model A 将 Ni-Te 放在角色/脆弱位——两个系统基于不同的理论逻辑对功能进行了不同的排列。
 
 ### 对偶关系（Duality）：SEI 与 ILE
 

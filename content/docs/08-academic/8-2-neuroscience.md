@@ -190,11 +190,10 @@ Nardi 的核心发现是——**不同功能类型的参与者在执行认知任
 
 | 研究 | 方法 | 关键发现 | 与功能理论的关系 | 局限 |
 |------|------|---------|---------------|------|
-| **Stenberg (1994)** | 区域脑血流量(rCBF) | 外倾者在运动和感觉区域血流量更高；内倾者在前额叶和前扣带回区域血流量更高 | 支持 E/I 维度的神经基础——但是二分法(E/I)而非八功能 | 样本小、仅E/I维度 |
+| **Stenberg et al. (1993)** | 区域脑血流量（rCBF） | 发现外倾程度与区域脑血流模式存在关联 | 为 E/I 维度提供初步神经生理线索——但并未直接测试八功能 | 样本小、仅研究外倾维度 |
 | **Canli et al. (2001)** | fMRI | 外倾者对积极情绪刺激的杏仁核和纹状体反应更强 | 间接支持 Fe/Se 与情感-感官环路的关联——外倾者对外部奖赏更敏感 | 未按功能类型分组 |
-| **DeYoung et al. (2010)** | 结构MRI | 大五人格维度与特定脑区容量相关（如外倾性与内侧眶额叶、宜人性与后扣带回） | 如果大五与八维存在系统映射（见 [8-4](./8-4-integration.md)），则脑结构差异可能间接反映功能偏好差异 | 相关性≠因果性；大五≠八维 |
+| **DeYoung et al. (2010)** | 结构MRI | 大五人格维度与特定脑区容量相关（如外倾性与内侧眶额叶、宜人性与后扣带回） | 如果大五与八维存在系统映射（见 [8-4]({{% relref "/docs/08-academic/8-4-integration.md" %}})），则脑结构差异可能间接反映功能偏好差异 | 相关性≠因果性；大五≠八维 |
 | **Adelstein et al. (2011)** | 静息态fMRI | 大五维度与大脑功能连通性模式相关——尤其是开放性(Openness)与默认模式网络的连通性 | 开放性与 N（直觉）高度相关——DMN 连通性差异可能是 Ne/Ni 差异的间接指标 | 仍是大五框架，非直接测试功能理论 |
-| **Korjonen (2018, 硕士论文)** | EEG | 尝试复制 Nardi 的部分发现——结果部分支持 Ne 的广泛激活模式，但其他功能的结果不一致 | 是迄今为止唯一尝试直接复制 Nardi 的工作 | 样本更小、方法差异大、仅为学位论文 |
 
 > 🟡 **个人推测**：当前的"非 Nardi"研究虽然不直接测试八维功能理论，但它们从不同角度提供了一个重要的元信号：**人与人之间的认知风格差异确实有可测量的神经基础**。问题不在于"差异是否存在"，而在于"荣格的八维分类是否是描述这些差异的最佳框架"。
 
@@ -220,7 +219,7 @@ Nardi 的核心发现是——**不同功能类型的参与者在执行认知任
 复制：至少两个独立实验室复制关键发现
 ```
 
-### 3.3 认知神经科学对"类型"概念的启示
+### 3.4 认知神经科学对"类型"概念的启示
 
 🔵 **后人诠释**：当代认知神经科学的一些发现，为思考"类型"概念提供了新的视角：
 
@@ -231,7 +230,7 @@ Nardi 的核心发现是——**不同功能类型的参与者在执行认知任
 | **默认模式网络的个体差异** | DMN 活动模式的个体差异与人格特征相关——为内倾/直觉功能的神经基础提供了潜在线索 |
 | **脑网络动态切换** | 大脑在不同认知模式之间的切换能力存在个体差异——这可能对应"功能切换"的难易度差异 |
 
-### 3.4 神经递质系统与认知功能的潜在关联
+### 3.5 神经递质系统与认知功能的潜在关联
 
 🟡 **个人推测**（高度推测性，尚无直接实证支持）：
 
@@ -446,3 +445,5 @@ Nardi 研究面临的最根本的方法论挑战是：**即使脑区活动差异
 16. 🔵 Conway, A. R. A., et al. (2005). Working Memory Span Tasks: A Methodological Review. *Psychonomic Bulletin & Review*, 12(5), 769-786.
 17. 🔵 Posner, M. I., & Petersen, S. E. (1990). The Attention System of the Human Brain. *Annual Review of Neuroscience*, 13, 25-42.
 18. 🔵 Ochsner, K. N., & Gross, J. J. (2005). The Cognitive Control of Emotion. *Trends in Cognitive Sciences*, 9(5), 242-249.
+19. 🔵 Stenberg, G., Wendt, P. E., & Risberg, J. (1993). Regional Cerebral Blood Flow and Extraversion. *Personality and Individual Differences*, 15(5), 547-554. https://doi.org/10.1016/0191-8869(93)90338-4
+20. 🔵 DeYoung, C. G. (2013). The Neuromodulator of Exploration: A Unifying Theory of the Role of Dopamine in Personality. *Frontiers in Human Neuroscience*, 7, 762. https://doi.org/10.3389/fnhum.2013.00762

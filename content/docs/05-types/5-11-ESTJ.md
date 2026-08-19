@@ -138,7 +138,7 @@ ESTJ 常被描述为"主管"（Executive）或"管理者"（Supervisor），这�
 🟢 ESTJ 的 Ne 第三通常表现为：
 
 1. **对新方法的好奇（但有限度）**：ESTJ 可能对新的管理工具、新的技术解决方案、新的组织方式表现出真实的兴趣——但这种兴趣通常在"看到具体应用前景"时最强烈，纯粹的抽象探索则较少吸引他们
-2. "**改进现有**"**而非"创造全新"**：Ne 在 ESTJ 中更多地表现为对已有系统的**优化灵感**——"如果我们把这两个流程结合起来会怎样？"——而非从零开始的创新
+2. "**改进现有**"而非"**创造全新**"：Ne 在 ESTJ 中更多地表现为对已有系统的**优化灵感**——"如果我们把这两个流程结合起来会怎样？"——而非从零开始的创新
 3. **幽默与机智**：Te-Si 的组合可能给人一种"严肃务实"的印象，但 Ne 第三赋予 ESTJ 一种出人意料的**幽默感和即兴机智**——尤其在放松的环境中
 4. **头脑风暴的参与者（而非发起者）**：ESTJ 可能享受在团队头脑风暴中的参与——Ne 的可能性探索让这个过程有趣——但他们通常会很快将讨论引导回"哪个想法最可行"（Te 接管）
 
@@ -595,13 +595,13 @@ ESTJ（Te-Si-Ne-Fi）和 ISTJ（Si-Te-Fi-Ne）共享 Te 和 Si 这两个最核�
 
 ### ESTJ 在 Socionics 中的对应
 
-🔵 MBTI 的 ESTJ 在 Socionics 中对应 **LSE（Logical Sensing Extrovert，逻辑感觉外倾型）**，三字母代码为 **ESTj**（注意在 Socionics 中，对于外倾型，J/P 标记与 MBTI 一致）。
+🔵 按前两位功能排列作近似映射时，MBTI 的 ESTJ 通常与 Socionics 的 **LSE（Logical Sensing Extrovert，逻辑感觉外倾型）**对照，三字母代码为 **ESTj**。外倾型的 J/P 字母不反转，但两套完整模型并不等价。
 
 **J/P 一致性说明**：ESTJ 是外倾型，且主导功能 Te 是判断/理性功能——因此在 Socionics 中也被标记为 j（理性型），三字母代码 ESTj 与 MBTI 的 ESTJ 一致。这与内倾型的 J/P 转换规则不同。
 
 | 对比维度 | MBTI ESTJ | Socionics LSE (ESTj) |
 |----------|-----------|---------------------|
-| 功能栈 | Te-Si-Ne-Fi | Te-Si（一维功能对应一致） |
+| 功能栈 | Te-Si-Ne-Fi | Te-Si（前两位功能对应一致） |
 | 类型名称 | 主管/Executive | 管理者/The Administrator（有时称 Stierlitz） |
 | J/P 标记 | J（基于外倾判断功能 Te） | j（基于主导理性功能 Te）——一致 |
 | 对偶类型（Dual） | — | EII（INFP 的 Socionics 对应） |
@@ -625,7 +625,7 @@ ESTJ（Te-Si-Ne-Fi）和 ISTJ（Si-Te-Fi-Ne）共享 Te 和 Si 这两个最核�
 🔵 Beebe 的八功能模型与 Socionics 的 Model A 对 ESTJ/LSE 的功能排列**有显著差异**：
 
 - **Beebe 模型**（MBTI）：Te-Si-Ne-Fi | Ti-Se-Ni-Fe（主栈+阴影，阴影是主栈的外倾/内倾翻转）
-- **Model A**（Socionics）：Te-Si-Fe-Ni | Fi-Ne-Ti-Se（分为自我/超我/超我我/本我四组）
+- **Model A**（Socionics）：Te-Si-Fe-Ni | Fi-Ne-Ti-Se（分为自我/超我/超本我/本我四组）
 
 🟡 关键差异在于第3-4功能：Beebe 模型将 Ne-Fi 作为 ESTJ 的第3-4功能，而 Model A 将 Fe-Ni 放在角色/脆弱位——两个系统对"什么是 ESTJ 的弱点"有不同的理论阐述。Beebe 认为 Fi 是最大弱点（劣势功能），Model A 也认为 Ni 是痛点，但同时将 Fi 放在暗示位（渴望从他人获得的输入）而非脆弱位。
 

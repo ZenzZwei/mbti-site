@@ -15,16 +15,16 @@ weight: 1
 
 ### 1.1 一页纸精华版
 
-| 功能 | 英文全称 | Socionics 符号 | 一句话定义 | 核心问题 | 详见 |
+| 功能 | 英文全称 | Socionics 字母记号 | 一句话定义 | 核心问题 | 详见 |
 |------|---------|-------------|----------|---------|------|
-| **Se** | Extraverted Sensing | ⚫ (F) | 即时感知外部环境的具体感官信息 | "当下正在发生什么？" | [2-1](../02-functions/2-1-Se.md) |
-| **Si** | Introverted Sensing | ⚪ (S) | 将当下感官体验与内在记忆模板对照 | "这像过去的什么经验？" | [2-2](../02-functions/2-2-Si.md) |
-| **Ne** | Extraverted Intuition | ⚫ (I) | 在外部信息中发现隐藏的可能性与连接 | "这还可能意味着什么？" | [2-3](../02-functions/2-3-Ne.md) |
-| **Ni** | Introverted Intuition | ⚪ (T) | 在内心深处形成关于本质和未来的直觉图景 | "这一切最终将走向何方？" | [2-4](../02-functions/2-4-Ni.md) |
-| **Te** | Extraverted Thinking | ⚫ (P) | 按照外部逻辑和效率标准组织和决策 | "最有效的做法是什么？" | [2-5](../02-functions/2-5-Te.md) |
-| **Ti** | Introverted Thinking | ⚪ (L) | 用内在逻辑框架分析、分类和验证 | "这在逻辑上是否自洽？" | [2-6](../02-functions/2-6-Ti.md) |
-| **Fe** | Extraverted Feeling | ⚫ (E) | 感知和调节外部社交环境的情感氛围 | "大家感觉怎么样？" | [2-7](../02-functions/2-7-Fe.md) |
-| **Fi** | Introverted Feeling | ⚪ (R) | 根据内在价值观和情感共鸣做出判断 | "这对我来说是否正确/重要？" | [2-8](../02-functions/2-8-Fi.md) |
+| **Se** | Extraverted Sensing | **F** | 即时感知外部环境的具体感官信息 | "当下正在发生什么？" | [2-1]({{% relref "/docs/02-functions/2-1-Se.md" %}}) |
+| **Si** | Introverted Sensing | **S** | 将当下感官体验与内在记忆模板对照 | "这像过去的什么经验？" | [2-2]({{% relref "/docs/02-functions/2-2-Si.md" %}}) |
+| **Ne** | Extraverted Intuition | **I** | 在外部信息中发现隐藏的可能性与连接 | "这还可能意味着什么？" | [2-3]({{% relref "/docs/02-functions/2-3-Ne.md" %}}) |
+| **Ni** | Introverted Intuition | **T** | 在内心深处形成关于本质和未来的直觉图景 | "这一切最终将走向何方？" | [2-4]({{% relref "/docs/02-functions/2-4-Ni.md" %}}) |
+| **Te** | Extraverted Thinking | **P** | 按照外部逻辑和效率标准组织和决策 | "最有效的做法是什么？" | [2-5]({{% relref "/docs/02-functions/2-5-Te.md" %}}) |
+| **Ti** | Introverted Thinking | **L** | 用内在逻辑框架分析、分类和验证 | "这在逻辑上是否自洽？" | [2-6]({{% relref "/docs/02-functions/2-6-Ti.md" %}}) |
+| **Fe** | Extraverted Feeling | **E** | 感知和调节外部社交环境的情感氛围 | "大家感觉怎么样？" | [2-7]({{% relref "/docs/02-functions/2-7-Fe.md" %}}) |
+| **Fi** | Introverted Feeling | **R** | 根据内在价值观和情感共鸣做出判断 | "这对我来说是否正确/重要？" | [2-8]({{% relref "/docs/02-functions/2-8-Fi.md" %}}) |
 
 ### 1.2 功能分类速查
 
@@ -43,14 +43,14 @@ weight: 1
 
 | 位置 | 角色名 | 原型 | 功能状态 | 详见 |
 |------|--------|------|---------|------|
-| 第1位 | 主导功能 | 英雄/女英雄 | 最强、最自然、核心身份 | [3-1](../03-positions/3-1-dominant.md) |
-| 第2位 | 辅助功能 | 好父母 | 支持主导、平衡调节 | [3-2](../03-positions/3-2-auxiliary.md) |
-| 第3位 | 第三功能 | 永恒少年/少女 | 不成熟但有魅力、中年觉醒 | [3-3](../03-positions/3-3-tertiary.md) |
-| 第4位 | 劣势功能 | 阿尼玛/阿尼姆斯 | 最弱但最具成长潜力 | [3-4](../03-positions/3-4-inferior.md) |
-| 第5位 | 对立人格 | 对立者 | 阴影面首位、防御性使用 | [3-5](../03-positions/3-5-opposing.md) |
-| 第6位 | 批判父母 | 批判者 | 无意识批判、过度标准 | [3-6](../03-positions/3-6-critical-parent.md) |
-| 第7位 | 欺骗者 | 骗术师 | 双面性、自欺与他欺 | [3-7](../03-positions/3-7-trickster.md) |
-| 第8位 | 恶魔/天使 | 恶魔/守护天使 | 最深层潜意识、破坏与转化 | [3-8](../03-positions/3-8-demon.md) |
+| 第1位 | 主导功能 | 英雄/女英雄 | 最强、最自然、核心身份 | [3-1]({{% relref "/docs/03-positions/3-1-dominant.md" %}}) |
+| 第2位 | 辅助功能 | 好父母 | 支持主导、平衡调节 | [3-2]({{% relref "/docs/03-positions/3-2-auxiliary.md" %}}) |
+| 第3位 | 第三功能 | 永恒少年/少女 | 不成熟但有魅力、中年觉醒 | [3-3]({{% relref "/docs/03-positions/3-3-tertiary.md" %}}) |
+| 第4位 | 劣势功能 | 阿尼玛/阿尼姆斯 | 最弱但最具成长潜力 | [3-4]({{% relref "/docs/03-positions/3-4-inferior.md" %}}) |
+| 第5位 | 对立人格 | 对立者 | 阴影面首位、防御性使用 | [3-5]({{% relref "/docs/03-positions/3-5-opposing.md" %}}) |
+| 第6位 | 批判父母 | 批判者 | 无意识批判、过度标准 | [3-6]({{% relref "/docs/03-positions/3-6-critical-parent.md" %}}) |
+| 第7位 | 欺骗者 | 骗术师 | 双面性、自欺与他欺 | [3-7]({{% relref "/docs/03-positions/3-7-trickster.md" %}}) |
+| 第8位 | 恶魔/天使 | 恶魔/守护天使 | 最深层潜意识、破坏与转化 | [3-8]({{% relref "/docs/03-positions/3-8-demon.md" %}}) |
 
 ---
 
@@ -114,7 +114,7 @@ B) 内在世界（I 偏好）
 | 主导功能验证 | "哪种认知活动我做起来最自然、最不费力？" |
 | 辅助功能验证 | "我的第二自然反应是什么？它是否平衡了主导功能？" |
 | 劣势功能验证 | "什么类型的认知任务最让我感到不安和消耗？"（劣势功能通常是最大的消耗源） |
-| Grip 验证 | "我在极端压力下会变成什么样？"（参照 [6-2 Grip 体验](../06-dynamics/6-2-grip.md) 对比各类型的 Grip 表现） |
+| Grip 验证 | "我在极端压力下会变成什么样？"（参照 [6-2 Grip 体验]({{% relref "/docs/06-dynamics/6-2-grip.md" %}}) 对比各类型的 Grip 表现） |
 
 ---
 
@@ -219,37 +219,37 @@ B) 内在世界（I 偏好）
 
 | 类型 | 主导 | 辅助 | 第三 | 劣势 | 对立 | 批判 | 欺骗 | 恶魔 | 一句话特征 | 详见 |
 |------|------|------|------|------|------|------|------|------|----------|------|
-| **INTJ** | Ni | Te | Fi | Se | Ne | Ti | Fe | Si | 战略建筑师——用愿景驱动系统性执行 | [5-01](../05-types/5-01-INTJ.md) |
-| **INTP** | Ti | Ne | Si | Fe | Te | Ni | Se | Fi | 逻辑架构师——用精密分析探索无限可能 | [5-02](../05-types/5-02-INTP.md) |
-| **ENTJ** | Te | Ni | Se | Fi | Ti | Ne | Si | Fe | 效率指挥官——用系统管理实现战略愿景 | [5-03](../05-types/5-03-ENTJ.md) |
-| **ENTP** | Ne | Ti | Fe | Si | Ni | Te | Fi | Se | 创意辩论家——用可能性发散挑战一切框架 | [5-04](../05-types/5-04-ENTP.md) |
+| **INTJ** | Ni | Te | Fi | Se | Ne | Ti | Fe | Si | 战略建筑师——用愿景驱动系统性执行 | [5-01]({{% relref "/docs/05-types/5-01-INTJ.md" %}}) |
+| **INTP** | Ti | Ne | Si | Fe | Te | Ni | Se | Fi | 逻辑架构师——用精密分析探索无限可能 | [5-02]({{% relref "/docs/05-types/5-02-INTP.md" %}}) |
+| **ENTJ** | Te | Ni | Se | Fi | Ti | Ne | Si | Fe | 效率指挥官——用系统管理实现战略愿景 | [5-03]({{% relref "/docs/05-types/5-03-ENTJ.md" %}}) |
+| **ENTP** | Ne | Ti | Fe | Si | Ni | Te | Fi | Se | 创意辩论家——用可能性发散挑战一切框架 | [5-04]({{% relref "/docs/05-types/5-04-ENTP.md" %}}) |
 
 ### 4.2 NF 组（外交家）
 
 | 类型 | 主导 | 辅助 | 第三 | 劣势 | 对立 | 批判 | 欺骗 | 恶魔 | 一句话特征 | 详见 |
 |------|------|------|------|------|------|------|------|------|----------|------|
-| **INFJ** | Ni | Fe | Ti | Se | Ne | Fi | Te | Si | 深层洞察者——用直觉引导人际和谐 | [5-05](../05-types/5-05-INFJ.md) |
-| **INFP** | Fi | Ne | Si | Te | Fe | Ni | Se | Ti | 价值探索者——用内心罗盘航行于可能性海洋 | [5-06](../05-types/5-06-INFP.md) |
-| **ENFJ** | Fe | Ni | Se | Ti | Fi | Ne | Si | Te | 人际催化师——用共情和远见引领集体成长 | [5-07](../05-types/5-07-ENFJ.md) |
-| **ENFP** | Ne | Fi | Te | Si | Ni | Fe | Ti | Se | 灵感点火者——用可能性激发每个人的潜力 | [5-08](../05-types/5-08-ENFP.md) |
+| **INFJ** | Ni | Fe | Ti | Se | Ne | Fi | Te | Si | 深层洞察者——用直觉引导人际和谐 | [5-05]({{% relref "/docs/05-types/5-05-INFJ.md" %}}) |
+| **INFP** | Fi | Ne | Si | Te | Fe | Ni | Se | Ti | 价值探索者——用内心罗盘航行于可能性海洋 | [5-06]({{% relref "/docs/05-types/5-06-INFP.md" %}}) |
+| **ENFJ** | Fe | Ni | Se | Ti | Fi | Ne | Si | Te | 人际催化师——用共情和远见引领集体成长 | [5-07]({{% relref "/docs/05-types/5-07-ENFJ.md" %}}) |
+| **ENFP** | Ne | Fi | Te | Si | Ni | Fe | Ti | Se | 灵感点火者——用可能性激发每个人的潜力 | [5-08]({{% relref "/docs/05-types/5-08-ENFP.md" %}}) |
 
 ### 4.3 SJ 组（哨兵）
 
 | 类型 | 主导 | 辅助 | 第三 | 劣势 | 对立 | 批判 | 欺骗 | 恶魔 | 一句话特征 | 详见 |
 |------|------|------|------|------|------|------|------|------|----------|------|
-| **ISTJ** | Si | Te | Fi | Ne | Se | Ti | Fe | Ni | 责任执行者——用经验和效率守护秩序 | [5-09](../05-types/5-09-ISTJ.md) |
-| **ISFJ** | Si | Fe | Ti | Ne | Se | Fi | Te | Ni | 温暖守护者——用经验和关怀保护所爱之人 | [5-10](../05-types/5-10-ISFJ.md) |
-| **ESTJ** | Te | Si | Ne | Fi | Ti | Se | Ni | Fe | 系统管理者——用效率和传统维护组织运转 | [5-11](../05-types/5-11-ESTJ.md) |
-| **ESFJ** | Fe | Si | Ne | Ti | Fi | Se | Ni | Te | 社区凝聚者——用关怀和传统维系集体纽带 | [5-12](../05-types/5-12-ESFJ.md) |
+| **ISTJ** | Si | Te | Fi | Ne | Se | Ti | Fe | Ni | 责任执行者——用经验和效率守护秩序 | [5-09]({{% relref "/docs/05-types/5-09-ISTJ.md" %}}) |
+| **ISFJ** | Si | Fe | Ti | Ne | Se | Fi | Te | Ni | 温暖守护者——用经验和关怀保护所爱之人 | [5-10]({{% relref "/docs/05-types/5-10-ISFJ.md" %}}) |
+| **ESTJ** | Te | Si | Ne | Fi | Ti | Se | Ni | Fe | 系统管理者——用效率和传统维护组织运转 | [5-11]({{% relref "/docs/05-types/5-11-ESTJ.md" %}}) |
+| **ESFJ** | Fe | Si | Ne | Ti | Fi | Se | Ni | Te | 社区凝聚者——用关怀和传统维系集体纽带 | [5-12]({{% relref "/docs/05-types/5-12-ESFJ.md" %}}) |
 
 ### 4.4 SP 组（探险家）
 
 | 类型 | 主导 | 辅助 | 第三 | 劣势 | 对立 | 批判 | 欺骗 | 恶魔 | 一句话特征 | 详见 |
 |------|------|------|------|------|------|------|------|------|----------|------|
-| **ISTP** | Ti | Se | Ni | Fe | Te | Si | Ne | Fi | 冷静工匠——用逻辑拆解现实世界的难题 | [5-13](../05-types/5-13-ISTP.md) |
-| **ISFP** | Fi | Se | Ni | Te | Fe | Si | Ne | Ti | 感官价值家——用内在价值观体验当下之美 | [5-14](../05-types/5-14-ISFP.md) |
-| **ESTP** | Se | Ti | Fe | Ni | Si | Te | Fi | Ne | 即时行动者——用感官敏锐和逻辑分析征服当下 | [5-15](../05-types/5-15-ESTP.md) |
-| **ESFP** | Se | Fi | Te | Ni | Si | Fe | Ti | Ne | 感官体验家——用当下之美表达内在价值 | [5-16](../05-types/5-16-ESFP.md) |
+| **ISTP** | Ti | Se | Ni | Fe | Te | Si | Ne | Fi | 冷静工匠——用逻辑拆解现实世界的难题 | [5-13]({{% relref "/docs/05-types/5-13-ISTP.md" %}}) |
+| **ISFP** | Fi | Se | Ni | Te | Fe | Si | Ne | Ti | 感官价值家——用内在价值观体验当下之美 | [5-14]({{% relref "/docs/05-types/5-14-ISFP.md" %}}) |
+| **ESTP** | Se | Ti | Fe | Ni | Si | Te | Fi | Ne | 即时行动者——用感官敏锐和逻辑分析征服当下 | [5-15]({{% relref "/docs/05-types/5-15-ESTP.md" %}}) |
+| **ESFP** | Se | Fi | Te | Ni | Si | Fe | Ti | Ne | 感官体验家——用当下之美表达内在价值 | [5-16]({{% relref "/docs/05-types/5-16-ESFP.md" %}}) |
 
 ---
 
@@ -258,9 +258,9 @@ B) 内在世界（I 偏好）
 本文汇集了学习和应用八维认知功能理论所需的核心工具：从八功能速查表到类型判定流程图，从功能发展自评问卷到 16 型功能栈速查卡。这些工具的设计初衷不是"替代理解"，而是**辅助理解**——它们是地图和指南针，但真正的旅程需要在日常生活中持续观察、反思和实践。
 
 如需进一步探索功能发展的实践方法，建议参考：
-- [7-2 八维与个人成长](../07-applications/7-2-growth.md) — 功能发展的系统方法论
-- [6-3 功能发展的生命周期](../06-dynamics/6-3-lifecycle.md) — 不同人生阶段的功能发展规律
-- [7-5 八维与心理健康](../07-applications/7-5-mental-health.md) — 功能失调的识别与应对
+- [7-2 八维与个人成长]({{% relref "/docs/07-applications/7-2-growth.md" %}}) — 功能发展的系统方法论
+- [6-3 功能发展的生命周期]({{% relref "/docs/06-dynamics/6-3-lifecycle.md" %}}) — 不同人生阶段的功能发展规律
+- [7-5 八维与心理健康]({{% relref "/docs/07-applications/7-5-mental-health.md" %}}) — 功能失调的识别与应对
 
 ---
 
@@ -276,8 +276,8 @@ B) 内在世界（I 偏好）
 
 | 上一篇 | 当前 | 下一篇 |
 |--------|------|--------|
-| [8-4 跨体系整合](../08-academic/8-4-integration.md) | **[9-1](./9-1-quick-reference.md) 速查工具集** | [9-2 常见误区 FAQ + 推荐资源](./9-2-faq-resources.md) |
+| [8-4 跨体系整合]({{% relref "/docs/08-academic/8-4-integration.md" %}}) | **[9-1]({{% relref "/docs/09-tools/9-1-quick-reference.md" %}}) 速查工具集** | [9-2 常见误区 FAQ + 推荐资源]({{% relref "/docs/09-tools/9-2-faq-resources.md" %}}) |
 
 > **模块九：工具与索引**  
 > **9-1 速查工具集** ·
-> [9-2 常见误区 FAQ + 推荐资源](./9-2-faq-resources.md)
+> [9-2 常见误区 FAQ + 推荐资源]({{% relref "/docs/09-tools/9-2-faq-resources.md" %}})

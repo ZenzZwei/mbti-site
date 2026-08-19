@@ -24,25 +24,25 @@ Socionics（社会人学，俄语：Соционика）由立陶宛经济学�
 | **创始人** | Myers-Briggs 母女 + 后续发展者 | Augusta |
 | **创立时间** | 1940s-1960s（MBTI问卷） | 1970s |
 | **地理背景** | 美国 | 苏联（立陶宛） |
-| **理论根基** | 荣格《心理类型》 | 荣格《心理类型》+ Kempinsky 的信息代谢论 |
+| **理论根基** | 荣格《心理类型》 | 荣格《心理类型》+ Kępiński 的信息代谢论 |
 | **核心关注** | 个体人格理解与发展 | 类型间的**社会互动关系** |
-| **主要贡献** | Beebe 原型模型、Nardi 神经科学 | 象限理论、16种关系类型学 |
+| **主要贡献** | Beebe 原型模型、Nardi 神经科学 | 象限理论、14 类关系模式 |
 | **学术地位** | 英语世界广泛流行但受学术批评 | 俄语世界较流行，西方了解有限 |
 
 ### 1.2 信息元素（Information Elements）
 
-Socionics 对八种认知功能使用了自己的命名体系——**信息元素**（Information Elements, IEs），并用独特的符号表示。虽然它们在根源上与八维功能对应，但定义的侧重点和边界存在细微差异。
+Socionics 对八种认知功能使用了自己的命名体系——**信息元素**（Information Elements, IEs），并使用字母和几何符号表示。为避免几何符号因字体不同而失真，本知识库统一采用标准字母记号。虽然它们在根源上与八维功能对应，但定义的侧重点和边界存在细微差异。
 
-| Socionics 符号 | Socionics 名称 | 对应的八维功能 | 简要说明 |
+| Socionics 字母记号 | Socionics 名称 | 对应的八维功能 | 简要说明 |
 |:---:|------------|-----------|---------|
-| ◼ (黑色方块) | **Se** (volitional sensing) | Se 外倾感觉 | 力量、意志力、对物理空间的控制和影响 |
-| ○ (白色圆) | **Si** (experiential sensing) | Si 内倾感觉 | 内在舒适感、身体感受、审美体验 |
-| △ (黑色三角) | **Ne** (intuition of possibilities) | Ne 外倾直觉 | 可能性、潜力、新奇事物的感知 |
-| ▽ (白色三角) | **Ni** (intuition of time) | Ni 内倾直觉 | 时间感、趋势预见、发展过程的感知 |
-| ■ (黑色方) | **Te** (practical logic) | Te 外倾思维 | 效率、事实、方法论、工作流程 |
-| □ (白色方) | **Ti** (structural logic) | Ti 内倾思维 | 结构、分类、系统的内在逻辑 |
-| ● (黑色圆) | **Fe** (ethics of emotions) | Fe 外倾情感 | 情绪表达、情感氛围、群体情感 |
-| ○ (白色圆) | **Fi** (ethics of relations) | Fi 内倾情感 | 关系的道德评价、心理距离、个人态度 |
+| **F** | **Se** (volitional sensing) | Se 外倾感觉 | 力量、意志力、对物理空间的控制和影响 |
+| **S** | **Si** (experiential sensing) | Si 内倾感觉 | 内在舒适感、身体感受、审美体验 |
+| **I** | **Ne** (intuition of possibilities) | Ne 外倾直觉 | 可能性、潜力、新奇事物的感知 |
+| **T** | **Ni** (intuition of time) | Ni 内倾直觉 | 时间感、趋势预见、发展过程的感知 |
+| **P** | **Te** (practical logic) | Te 外倾思维 | 效率、事实、方法论、工作流程 |
+| **L** | **Ti** (structural logic) | Ti 内倾思维 | 结构、分类、系统的内在逻辑 |
+| **E** | **Fe** (ethics of emotions) | Fe 外倾情感 | 情绪表达、情感氛围、群体情感 |
+| **R** | **Fi** (ethics of relations) | Fi 内倾情感 | 关系的道德评价、心理距离、个人态度 |
 
 > **重要差异提醒**：虽然表中使用了对应关系，但 Socionics 的信息元素定义与八维功能定义之间存在**细微但重要的差异**。例如：
 > - Socionics 的 **Se** 更强调"力量""意志""对环境的控制"，而八维的 Se 更强调"感官觉知""当下体验"
@@ -80,7 +80,7 @@ Socionics 为每种类型赋予了一个**人物代号**（以历史人物或角
 
 #### J/P 反转的根本原因
 
-如 [1-2](./1-2-mbti-relationship.md) 中已经提及的：
+如 [1-2]({{% relref "/docs/01-fundamentals/1-2-mbti-relationship.md" %}}) 中已经提及的：
 
 - **MBTI** 的 J/P 基于**对外展示的功能类别**——J 表示对外展示判断功能，P 表示对外展示感知功能
 - **Socionics** 的 j/p 基于**主导功能的类别**——j（rational）表示主导是判断功能，p（irrational）表示主导是感知功能
@@ -105,10 +105,10 @@ Model A 是 Socionics 的核心功能位置模型，由 Augusta 提出。它将�
 
 **Model A 结构（以 ILI = MBTI 的 INTJ 为例）：**
 
-| | 自我（Ego） | 超我（Super-Ego） | 超我（Super-Id） | 本我（Id） |
+| | 自我（Ego） | 超我（Super-Ego） | 超本我（Super-Id） | 本我（Id） |
 |---|---|---|---|---|
-| **接受性** | ① 主导 (Ni) | ③ 角色 (Se) | ⑤ 暗示 (Fe) | ⑦ 忽视 (Ne) |
-| **创造性** | ② 创造 (Te) | ④ 脆弱 (Fi) | ⑥ 动员 (Ti) | ⑧ 示范 (Si) |
+| **接受性** | ① 主导 (Ni) | ③ 角色 (Si) | ⑤ 暗示 (Se) | ⑦ 忽视 (Ne) |
+| **创造性** | ② 创造 (Te) | ④ 脆弱 (Fe) | ⑥ 动员 (Fi) | ⑧ 示范 (Ti) |
 
 #### Model A 各位置详解
 
@@ -125,7 +125,7 @@ Model A 是 Socionics 的核心功能位置模型，由 Augusta 提出。它将�
 
 ### 2.2 Beebe 模型的八个原型位置
 
-作为对比，回顾 Beebe 模型（详见 [1-1](./1-1-theory-overview.md) 和模块三）：
+作为对比，回顾 Beebe 模型（详见 [1-1]({{% relref "/docs/01-fundamentals/1-1-theory-overview.md" %}}) 和模块三）：
 
 | 位置 | Beebe 名称 | 原型 | 核心特征 |
 |:---:|-----------|------|---------|
@@ -184,9 +184,9 @@ Model A 是 Socionics 的核心功能位置模型，由 Augusta 提出。它将�
 | 象限 | 重视的功能对 | 包含的类型（Socionics / MBTI） |
 |------|-----------|---------------------------|
 | **Alpha (α)** | **Si + Ne** 感知轴 + **Fe + Ti** 判断轴 | ESE/ESFJ, SEI/ISFJ, ILE/ENTP, LII/INTP |
-| **Beta (β)** | **Se + Ni** 感知轴 + **Fe + Ti** 判断轴 | EIE/ENFJ, IEI/INFJ, SLE/ESTP, LSI/ISTJ |
+| **Beta (β)** | **Se + Ni** 感知轴 + **Fe + Ti** 判断轴 | EIE/ENFJ, IEI/INFJ, SLE/ESTP, LSI/ISTP |
 | **Gamma (γ)** | **Se + Ni** 感知轴 + **Te + Fi** 判断轴 | SEE/ESFP, ESI/ISFP, LIE/ENTJ, ILI/INTJ |
-| **Delta (δ)** | **Si + Ne** 感知轴 + **Te + Fi** 判断轴 | LSE/ESTJ, SLI/ISTP, IEE/ENFP, EII/INFP |
+| **Delta (δ)** | **Si + Ne** 感知轴 + **Te + Fi** 判断轴 | LSE/ESTJ, SLI/ISTJ, IEE/ENFP, EII/INFP |
 
 ### 3.2 各象限的文化特征
 
@@ -239,7 +239,7 @@ Alpha → Beta → Gamma → Delta → Alpha → ...
 
 ## 四、Socionics 类型间关系：16 种交互模式
 
-Socionics 体系最具原创性、也最受关注的贡献之一，是其系统化的**类型间关系理论**（Intertype Relations）。与 MBTI 八维体系中"类型兼容性"通常仅作为非正式讨论话题不同，Socionics 将 16 种类型间关系提升到了**理论核心地位**，建立了一套基于信息元素交互的形式化模型。
+Socionics 体系最具原创性、也最受关注的贡献之一，是其系统化的**类型间关系理论**（Intertype Relations）。与 MBTI 八维体系中"类型兼容性"通常仅作为非正式讨论话题不同，Socionics 将 16 种人格类型之间的关系提升到了**理论核心地位**，建立了一套基于信息元素交互的形式化模型。
 
 ### 4.1 关系推导的理论基础
 
@@ -251,9 +251,9 @@ Socionics 类型间关系并非简单的经验归纳，而是从 Model A 的功�
 
 例如：如果 A 的主导功能恰好是 B 的暗示功能（Suggestive，第5位），那么 A 所自然表达的恰好是 B 渴望接收的——这就构成了**二元关系**（Duality）的基础。
 
-### 4.2 十六种关系总览
+### 4.2 十四种关系总览
 
-以下是 Socionics 定义的全部 16 种类型间关系，按**对称性**和**功能交互模式**分组：
+经典 Socionics 将类型间关系归纳为 **14 类模式**：12 类对称关系和 2 类非对称关系。非对称关系根据方向分别呈现为施益者/受益者、监护者/被监护者，但仍各属于同一种关系模式。
 
 #### 第一组：完全对称关系（A→B 与 B→A 性质相同）
 
@@ -262,9 +262,13 @@ Socionics 类型间关系并非简单的经验归纳，而是从 Model A 的功�
 | **同一关系** | Identity | 功能栈完全相同 | 最容易理解对方，但也最容易"审美疲劳"；如同照镜子 |
 | **二元关系** | Duality | 主导↔暗示，创造↔动员 | 理论上的"最佳互补"；A 的强项恰好填补 B 的弱项，反之亦然 |
 | **活化关系** | Activation | 主导↔动员，创造↔暗示 | 相互激活和激励，但长期可能因节奏差异而疲劳 |
-| **镜像关系** | Mirror | 主导功能相同，创造功能互换 | 关注同一领域但方法论不同；互相"照镜子+修正" |
+| **镜像关系** | Mirror | 双方的主导与创造功能互换位置 | 关注同一领域但优先级不同；互相"照镜子+修正" |
+| **商务关系** | Business / Look-alike | 偶数功能位置相同，部分方法重叠 | 合作较顺畅但心理距离较远；适合任务伙伴 |
+| **亲属关系** | Kindred / Comparative | 主导功能相同，创造功能相反 | 容易理解共同目标，但实现方式不同 |
+| **幻象关系** | Mirage / Illusionary | 部分功能形成舒适但不完整的配合 | 初期轻松，深入后可能发现支持不足 |
+| **半二元关系** | Semi-duality | 只形成部分二元互补 | 有互补感，但关键需求不能全部满足 |
 | **对立关系** | Contrary/Extinguishment | 功能相同但内外倾完全相反 | 看似相似却处处不合拍；A 的外倾是 B 的内倾 |
-| **准同一关系** | Quasi-identical | 功能栈高度相似但关键位互换 | 表面相似实则思维路径不同，容易产生微妙误解 |
+| **准同一关系** | Quasi-identity | 类型特征相近，但功能位置与价值取向错开 | 表面相似实则思维路径不同，容易产生微妙误解 |
 | **冲突关系** | Conflict | 主导↔受伤/脆弱功能位 | 理论上"最困难"的关系；双方的强项恰好刺痛对方弱点 |
 | **超我关系** | Super-Ego | 主导功能对应对方的角色功能位 | 相互敬佩但难以亲近；觉得对方"厉害但不舒服" |
 
@@ -273,15 +277,9 @@ Socionics 类型间关系并非简单的经验归纳，而是从 Model A 的功�
 | 关系名称 | 英文名 | 核心机制 | 简要描述 |
 |---------|--------|---------|---------|
 | **监护关系** | Supervision（监护者/被监护者） | 监护者的主导→被监护者的受伤功能 | 不对称的压力关系；监护者无意中不断触及被监护者的痛点 |
-| **受益关系** | Benefit（受益者/施益者） | 施益者的创造→受益者的暗示 | 不对称的滋养关系；施益者自然给出受益者需要的，但受益者的回馈对施益者无感 |
-| **商务关系** | Business/Look-alike | 功能栈部分重叠 | 合作高效但缺乏深度连接；适合"工作伙伴"但难成知己 |
-| **幻象关系** | Mirage/Illusionary | 表面吸引但深层不匹配 | 初期印象极好，深入后发现期望落空；"美丽的误会" |
-| **亲属关系** | Kindred | 主导功能相同但辅助不同 | 如同远亲——有共同基础但发展方向不同 |
-| **半二元关系** | Semi-duality | 接近二元但缺少关键互补 | 有部分互补的满足感，但总觉得"差了点什么" |
-| **比较关系** | Comparative | 创造功能相同 | 容易在方法论上产生竞争；都觉得自己的方式更好 |
-| **准对立关系** | Quasi-opposite | 接近对立但不完全 | 有趣的张力——既有冲突又有互补 |
+| **受益关系** | Benefit（施益者/受益者） | 单向的信息需求与供给 | 不对称的滋养关系；施益者自然给出受益者需要的，但反向回馈并不等价 |
 
-> **个人推测**：将上述 16 种关系视为"固定剧本"是 Socionics 社区的一个常见误用。实际上，这些关系描述的是**信息交互的结构性倾向**，而非不可逾越的宿命。成熟个体在任何关系中都可以有意识地调整沟通策略。
+> **个人推测**：将上述 14 类关系模式视为"固定剧本"是 Socionics 社区的一个常见误用。实际上，这些关系描述的是**信息交互的结构性倾向**，而非不可逾越的宿命。成熟个体在任何关系中都可以有意识地调整沟通策略。
 
 ### 4.3 二元关系（Duality）深度剖析
 
@@ -335,7 +333,7 @@ ILE (ENTP) Model A:          SEI (ISFp) Model A:
 
 ```
 监护环（以 Alpha 象限为起点的一条链）：
-ILE → ESE → SLI → EIE → ILE → ...
+ILE → LSI → SEE → EII → ILE → ...
 (每一个类型监护下一个，同时被上一个监护)
 ```
 
@@ -349,7 +347,7 @@ MBTI 八维体系没有与 Socionics 对等的形式化关系理论，但存在�
 
 | 维度 | Socionics 关系理论 | MBTI 八维体系中的讨论 |
 |-----|-------------------|---------------------|
-| **形式化程度** | 高度形式化，16种关系有严格定义 | 非形式化，多为社区讨论和经验分享 |
+| **形式化程度** | 高度形式化，14 类关系模式有严格定义 | 非形式化，多为社区讨论和经验分享 |
 | **推导方式** | 从 Model A 功能位数学推导 | 基于功能栈相似性的直觉判断 |
 | **核心概念** | 二元互补（Duality）为最佳配对 | 无统一的"最佳配对"理论 |
 | **关注焦点** | 信息元素的交换效率 | 功能发展水平和个人成长 |
@@ -372,7 +370,7 @@ MBTI 八维体系没有与 Socionics 对等的形式化关系理论，但存在�
 |-----|-------------|-----------|
 | **功能本质** | 心理过程/认知操作 | 信息元素/代谢通道 |
 | **隐喻** | "大脑的不同工作模式" | "心灵的消化系统" |
-| **理论根源** | 荣格《心理类型》的功能描述 | 荣格 + Kępińński 的信息代谢理论 |
+| **理论根源** | 荣格《心理类型》的功能描述 | 荣格 + Kępiński 的信息代谢理论 |
 | **核心问句** | "你的大脑如何处理体验？" | "你的心灵如何与信息环境交互？" |
 
 **MBTI 八维立场**：认知功能是**个体心理学**概念。Se 是一种感知模式，Ti 是一种判断模式。它们描述的是**个体内部**的认知运作方式。关注点在于：个体如何感知、如何判断、如何做决策。
@@ -428,17 +426,17 @@ Socionics 中一个极具争议的实践是**视觉识别**（Visual Identificat
 
 ### 5.4 J/P 问题的深层分歧
 
-这一分歧在 [1-2](./1-2-mbti-relationship.md) 中已有初步讨论，此处从两个体系的视角做更深入分析：
+这一分歧在 [1-2]({{% relref "/docs/01-fundamentals/1-2-mbti-relationship.md" %}}) 中已有初步讨论，此处从两个体系的视角做更深入分析：
 
 **问题核心**：MBTI 和 Socionics 对内倾类型的 J/P 判定**完全相反**。
 
 ```
 MBTI:      INFP = Fi-Ne-Si-Te  (F 在内,N 在外 → 外界看到 P)
-Socionics: INFp = Fi-Ne-Si-Te  (EII, 但注意小写 p)
-           INFj = Ni-Fe-Ti-Se  (IEI, 注意小写 j)
+Socionics: INFj = EII，Ego 功能为 Fi-Ne（主导判断功能 → j）
+           INFp = IEI，Ego 功能为 Ni-Fe（主导感知功能 → p）
 ```
 
-等等——看起来 INFP 和 INFp 功能栈相同？是的，但这里有一个微妙之处：
+需要注意：MBTI 的四功能栈与 Socionics 的 Model A 是不同模型。这里比较的是前两位功能取向与 j/p 命名规则，不应把两套完整功能序列直接等同。
 
 - **MBTI 的 J/P**：指的是个体**向外界展现**的偏好。J 型向外展示判断功能，P 型向外展示感知功能
 - **Socionics 的 j/p**（小写，也称 rational/irrational）：指的是个体**主导功能**的属性。主导功能是判断功能则为 j（rational），主导功能是感知功能则为 p（irrational）
@@ -452,7 +450,7 @@ Socionics: INFp = Fi-Ne-Si-Te  (EII, 但注意小写 p)
 | INFP | Fi | P（外显 Ne） | j（主导 Fi 是判断） | EII (INFj) |
 | INFJ | Ni | J（外显 Fe） | p（主导 Ni 是感知） | IEI (INFp) |
 | INTP | Ti | P（外显 Ne） | j（主导 Ti 是判断） | LII (INTj) |
-| INTJ | Ni | J（外显 Fe/Te） | p（主导 Ni 是感知） | ILI (INTp) |
+| INTJ | Ni | J（外显 Te） | p（主导 Ni 是感知） | ILI (INTp) |
 | ISFP | Fi | P（外显 Se） | j（主导 Fi 是判断） | ESI (ISFj) |
 | ISFJ | Si | J（外显 Fe） | p（主导 Si 是感知） | SEI (ISFp) |
 | ISTP | Ti | P（外显 Se） | j（主导 Ti 是判断） | LSI (ISTj) |
@@ -495,7 +493,7 @@ Socionics: INFp = Fi-Ne-Si-Te  (EII, 但注意小写 p)
 
 3. **栈位置理论的根本分歧**：两个体系都采用 8 位功能栈，但对第 5-8 位功能的理解截然不同。Beebe 模型强调这些位置的"阴影"和"原型"性质，Model A 则赋予它们各自独立的信息处理角色。
 
-4. **Socionics 的独特贡献**：象限理论（Quadra）和类型间关系理论（16 种 Intertype Relations）是 Socionics 的原创贡献，在 MBTI 八维体系中没有对等物。
+4. **Socionics 的独特贡献**：象限理论（Quadra）和类型间关系理论（14 类 Intertype Relations 模式）是 Socionics 的原创贡献，在 MBTI 八维体系中没有对等物。
 
 5. **J/P 反转问题**：对于内倾类型，两个体系的 J/P 判定完全相反。这是跨体系交流中最容易造成混淆的问题。
 
@@ -517,11 +515,11 @@ Socionics: INFp = Fi-Ne-Si-Te  (EII, 但注意小写 p)
 两个体系的比较也揭示了一些尚未解决的深层问题：
 
 1. **第 5-8 功能位的真实心理角色是什么？** Beebe 和 Model A 给出了截然不同的答案，但都缺乏充分的实证支持。
-2. **关系类型理论的效度如何？** Socionics 的 16 种关系是否真的可以从功能栈交互中可靠地预测？目前证据不足。
+2. **关系类型理论的效度如何？** Socionics 的 14 类关系模式是否真的可以从功能栈交互中可靠地预测？目前证据不足。
 3. **两个体系的功能定义是否完全等价？** 虽然使用相同的符号（Se、Ni 等），但深入分析会发现两个体系对同一功能的描述存在微妙差异。
 4. **象限理论的社会学推论是否成立？** 四个象限的社会演化循环是一个有趣的假说，但几乎没有经验研究支撑。
 
-这些问题将在本系列后续文章中继续探讨，特别是在 [8-3](../08-academic/8-3-socionics.md) Socionics 深度专题和 [8-4](../08-academic/8-4-integration.md) 跨体系整合中。
+这些问题将在本系列后续文章中继续探讨，特别是在 [8-3]({{% relref "/docs/08-academic/8-3-socionics.md" %}}) Socionics 深度专题和 [8-4]({{% relref "/docs/08-academic/8-4-integration.md" %}}) 跨体系整合中。
 
 ---
 
@@ -546,7 +544,7 @@ Socionics: INFp = Fi-Ne-Si-Te  (EII, 但注意小写 p)
 ### 比较研究与批评
 11. Blutner, R., & Hochnadel, E. (2010). "Two qubits for C.G. Jung's theory of personality." *Cognitive Systems Research*, 11(3), 243-259.
 12. Talanov, V. (2012). *Socionics from the perspective of modern psychometrics* (俄语). St. Petersburg.
-13. Kępińński, A. (1972). *Rhythm of Life* (波兰语). Kraków: Wydawnictwo Literackie.
+13. Kępiński, A. (1972). *Rhythm of Life* (波兰语). Kraków: Wydawnictwo Literackie.
 
 ### 在线资源
 14. Wikisocion. *Model A*. https://wikisocion.github.io/

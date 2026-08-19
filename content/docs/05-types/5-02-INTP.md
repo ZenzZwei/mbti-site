@@ -637,10 +637,10 @@ Loop 模式：**Ti → Si → Ti → Si → ……**（内在逻辑只在旧有�
 
 ### 14.1 Socionics 中的对应类型
 
-🔵 INTP 在 Socionics 中对应的类型是 **LII**（Logical Intuitive Introvert），也被称为 **Robespierre** 或 **The Analyst**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 INTP 通常与 Socionics 的 **LII**（Logical Intuitive Introvert）对照；LII 也被称为 **Robespierre** 或 **The Analyst**。
 
 > [!CAUTION]
-> **J/P 转换注意**：MBTI 的 INTP 对应 Socionics 的 INTj（小写 j），因为 Socionics 对内倾型的 J/P 分配与 MBTI 相反。详见 [1-3](../01-fundamentals/1-3-socionics-comparison.md)。
+> **J/P 转换注意**：在上述近似映射中，MBTI 的 INTP 对照 Socionics 的 INTj（小写 j），因为 Socionics 对内倾型的 J/P 分配与 MBTI 相反。详见 [1-3]({{% relref "/docs/01-fundamentals/1-3-socionics-comparison.md" %}})。
 
 ### 14.2 Model A 功能栈对比
 
@@ -648,15 +648,15 @@ Loop 模式：**Ti → Si → Ti → Si → ……**（内在逻辑只在旧有�
 |------|-----------|---------------|
 | 主导 (1st) | Ti | Ti（基础功能/Leading） |
 | 辅助 (2nd) | Ne | Ne（创造功能/Creative） |
-| 角色 (3rd) | — | Se（角色功能/Role） |
-| 脆弱 (4th) | — | Fi（脆弱功能/PoLR） |
+| 角色 (3rd) | — | Fi（角色功能/Role） |
+| 脆弱 (4th) | — | Se（脆弱功能/PoLR） |
 | 暗示 (5th) | — | Fe（暗示功能/Suggestive） |
 | 激活 (6th) | — | Si（激活功能/Mobilizing） |
-| 忽视 (7th) | — | Ni（忽视功能/Ignoring） |
-| 示范 (8th) | — | Te（示范功能/Demonstrative） |
+| 忽视 (7th) | — | Te（忽视功能/Ignoring） |
+| 示范 (8th) | — | Ni（示范功能/Demonstrative） |
 
 🔵 **关键差异**：
-- **PoLR（最弱功能）**：Socionics 认为 LII 的最弱功能是 **Fi**（内倾情感），而非 MBTI 模型中的 Fe。这意味着 Socionics 认为 INTP 在**理解自己的个人情感和价值观**方面比在**处理群体和谐**方面更困难
+- **PoLR（最弱功能）**：Socionics 认为 LII 的最弱功能是 **Se**（外倾感觉），强调其在施加意志、应对力量对抗和即时掌控环境方面的脆弱；这与 MBTI 中 Se 位于第 7 位的描述可作对照
 - **暗示功能是 Fe**：这与 MBTI 模型中 Fe 是劣势功能高度一致——LII 特别渴望但依赖他人提供的"温暖的社交氛围"
 - **激活功能是 Si**：LII 对来自他人的 Si 关怀（照顾身体、提供舒适环境）特别感激——这与 MBTI 中 Si 处于第三位的"怀旧依赖"有有趣的呼应
 

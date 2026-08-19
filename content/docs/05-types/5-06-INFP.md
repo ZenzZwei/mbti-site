@@ -535,16 +535,16 @@ INFP 在亲密关系中展现出一种独特的**深度忠诚与理想化并存*
 
 ### Socionics 中的对应类型
 
-🔵 在 Socionics 体系中，MBTI 的 INFP 对应的是 **EII（Ethical Intuitive Introvert）**，又名**杜思妥耶夫斯基（Dostoevsky）**或**人文主义者（The Humanist）**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 INFP 通常与 Socionics 的 **EII（Ethical Intuitive Introvert）**对照；EII 又名**陀思妥耶夫斯基（Dostoevsky）**或**人文主义者（The Humanist）**。
 
 ⚠️ **重要注意**：由于 Socionics 对内向型使用不同的 J/P 标记约定：
 - MBTI INFP → 功能栈 Fi-Ne-Si-Te
-- Socionics INFj (EII) → 功能栈 Fi-Ne-Si-Te（与 MBTI INFP 相同的功能栈）
-- Socionics INFp (IEI) → 功能栈 Ni-Fe-Ti-Se（对应 MBTI INFJ 的功能栈）
+- Socionics INFj (EII) → Ego 功能为 Fi-Ne（与 MBTI INFP 的前两位功能对应）
+- Socionics INFp (IEI) → Ego 功能为 Ni-Fe（与 MBTI INFJ 的前两位功能对应）
 
-因此，**MBTI 的 INFP 在 Socionics 中对应的是 EII（INFj）**。注意 J/P 与 MBTI 相反。
+因此，按本文采用的映射原则，**MBTI 的 INFP 通常与 EII（INFj）近似对照**。注意 J/P 与 MBTI 相反。
 
-### Socionics EII（杜思妥耶夫斯基 / The Humanist）
+### Socionics EII（陀思妥耶夫斯基 / The Humanist）
 
 🔵 EII 在 Socionics 中以俄国伟大作家陀思妥耶夫斯基命名，反映了这一类型对人类情感深度和道德复杂性的深刻理解能力。
 
@@ -554,20 +554,20 @@ INFP 在亲密关系中展现出一种独特的**深度忠诚与理想化并存*
 |-----------------|-----------|----------------|
 | 主导功能（Leading） | Fi 内倾情感 | 第一功能（英雄） |
 | 创造功能（Creative） | Ne 外倾直觉 | 第二功能（好父母） |
-| 角色功能（Role） | Si 内倾感觉 | ≈ 第三功能 |
-| 脆弱功能（Vulnerable） | Te 外倾思维 | ≈ 第四功能（劣势） |
-| 暗示功能（Suggestive） | Se 外倾感觉 | — |
-| 动员功能（Mobilizing） | Ti 内倾思维 | — |
-| 忽视功能（Ignoring） | Fe 外倾情感 | ≈ 第五功能 |
-| 示范功能（Demonstrative） | Ni 内倾直觉 | ≈ 第六功能 |
+| 角色功能（Role） | Ti 内倾思维 | 第八功能（恶魔/天使） |
+| 脆弱功能（Vulnerable） | Se 外倾感觉 | 第七功能（欺骗者） |
+| 暗示功能（Suggestive） | Te 外倾思维 | 第四功能（劣势） |
+| 动员功能（Mobilizing） | Si 内倾感觉 | 第三功能 |
+| 忽视功能（Ignoring） | Fe 外倾情感 | 第五功能（对立人格） |
+| 示范功能（Demonstrative） | Ni 内倾直觉 | 第六功能（批判父母） |
 
 ### Socionics 的不同侧重
 
 🔵 Socionics 对 EII 类型的描述与 MBTI 的 INFP 有一些不同的侧重：
 
-1. **二元关系（Duality）**：EII 的对偶（Dual）类型是 **LSE（外倾感觉逻辑型，对应 MBTI ESTJ）**。Socionics 认为这一对构成最互补的关系——LSE 的强力 Te 和 Se 恰好弥补了 EII 的 Te 脆弱和 Se 暗示功能的不足，而 EII 的 Fi-Ne 为 LSE 提供了情感深度和可能性视野
-2. **脆弱功能 Te**：Socionics 比 MBTI 更直接地强调 EII 在"效率执行"维度上的脆弱——他们不仅不擅长组织管理和效率优化，而且对这个领域的批评特别敏感和脆弱
-3. **暗示功能 Se**：EII 被认为在"力量"和"物理现实掌控"维度上需要外部支持——他们欣赏并渴望他人的果断行动力和物质世界的掌控能力，但自己很难发展这方面的能力
+1. **二元关系（Duality）**：EII 的对偶（Dual）类型是 **LSE（外倾感觉逻辑型，对应 MBTI ESTJ）**。Socionics 认为这一对构成最互补的关系——LSE 的 Te-Si 恰好回应了 EII 的 Te 暗示和 Si 动员需求，而 EII 的 Fi-Ne 为 LSE 提供情感深度和可能性视野
+2. **暗示功能 Te**：EII 重视来自他人的有效方法、事实信息和执行支持，但自己较难持续地主导这一领域
+3. **脆弱功能 Se**：EII 对力量对抗、强制施压和意志竞争方面的要求与批评尤其敏感
 4. "**人文主义者**"**标签**：Socionics 比 MBTI 更强调 EII 的人文关怀维度——将其视为最有可能投身于人道主义事业、弱势群体保护和道德倡导的类型
 5. **关系敏感性**：Socionics 特别强调 EII 对人际关系质量的敏感程度——他们对关系中的情感真诚度有着极高的标准，任何虚假或敷衍都会被 Fi 的雷达探测到
 
@@ -578,7 +578,7 @@ INFP 在亲密关系中展现出一种独特的**深度忠诚与理想化并存*
 | 核心形象 | "治愈者/调停者"——强调内在和谐与价值忠诚 | "人文主义者"——强调道德深度与人际伦理 |
 | Fi 的描述 | 个人价值观、情感真实性、审美敏感 | 关系伦理（ethics of relations）、道德判断、人际距离感知 |
 | Ne 的定位 | 辅助功能——创造力和可能性探索 | 创造功能——主动创造新观念和可能性的方式 |
-| 弱点强调 | Te 劣势导致的执行力困境 | Te 脆弱——对效率和组织方面的批评特别敏感 |
+| 弱点强调 | Te 劣势导致的执行力困境 | Se 脆弱 + Te 暗示——力量对抗与执行支持需求 |
 | 最佳配对 | 无强制性推荐（MBTI 不主张类型配对） | LSE（ESTJ）——二元关系 |
 | 社会角色 | 作家、艺术家、治疗师 | 道德引导者、人际关系专家、人文学者 |
 

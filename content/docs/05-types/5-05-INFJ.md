@@ -516,7 +516,7 @@ INFJ 在亲密关系中展现出一种独特的深度投入模式。Ni-Fe 组合
 | **自我感知** | "我能看穿事物的本质" | "我知道什么对我是真实的" |
 | **写作风格** | 结构化、有方向感、指向明确的结论 | 探索性、个人化、多种可能性并存 |
 | **社交表现** | Fe 使其在社交场合显得更"外向"和适应 | Fi 使其更忠于自我状态——如果不想社交就不会勉强 |
-| "**门摔**"**vs"慢慢淡出"** | 倾向于"门摔"——积累到临界点后突然切断 | 倾向于"慢慢淡出"——逐渐减少接触直到关系自然消失 |
+| "**门摔**" vs "**慢慢淡出**" | 倾向于"门摔"——积累到临界点后突然切断 | 倾向于"慢慢淡出"——逐渐减少接触直到关系自然消失 |
 
 **关键鉴别点：**
 1. **问问自己最核心的驱动力**：是"理解事物/人性的深层本质"（Ni-INFJ）还是"忠于自己的内在价值和情感"（Fi-INFP）？
@@ -549,14 +549,14 @@ INFJ 在亲密关系中展现出一种独特的深度投入模式。Ni-Fe 组合
 
 ### Socionics 中的对应类型
 
-🔵 在 Socionics 体系中，MBTI 的 INFJ 对应的是 **EII（Ethical Intuitive Introvert）**，又名**杜思妥耶夫斯基（Dostoevsky）**或**人文主义者（The Humanist）**。
+🔵 按前两位功能排列作近似映射时，MBTI 的 INFJ 通常与 Socionics 的 **IEI（Intuitive Ethical Introvert）**对照；IEI 又名**叶赛宁（Yesenin）**或**浪漫主义者（The Romantic）**。
 
 ⚠️ **重要注意**：MBTI 的 INFJ 与 Socionics 的 INFj 并**不**直接对等。由于 Socionics 对内向型使用了不同的 J/P 标记约定：
 - MBTI INFJ → 功能栈 Ni-Fe-Ti-Se
-- Socionics INFp (IEI) → 功能栈 Ni-Fe-Ti-Se（与 MBTI INFJ 相同的功能栈）
-- Socionics INFj (EII) → 功能栈 Fi-Ne-Si-Te（对应 MBTI INFP 的功能栈）
+- Socionics INFp (IEI) → Ego 功能为 Ni-Fe（与 MBTI INFJ 的前两位功能对应）
+- Socionics INFj (EII) → Ego 功能为 Fi-Ne（与 MBTI INFP 的前两位功能对应）
 
-因此，**MBTI 的 INFJ 在 Socionics 中对应的是 IEI（INFp）**，而非 EII（INFj）。
+因此，按本文采用的映射原则，**MBTI 的 INFJ 通常与 IEI（INFp）近似对照**，而非 EII（INFj）。
 
 ### Socionics IEI（叶赛宁 / The Romantic）
 
@@ -568,21 +568,21 @@ INFJ 在亲密关系中展现出一种独特的深度投入模式。Ni-Fe 组合
 |-----------------|-----------|----------------|
 | 主导功能（Leading） | Ni 内倾直觉 | 第一功能（英雄） |
 | 创造功能（Creative） | Fe 外倾情感 | 第二功能（好父母） |
-| 角色功能（Role） | Ti 内倾思维 | ≈ 第三功能 |
-| 脆弱功能（Vulnerable） | Se 外倾感觉 | ≈ 第四功能（劣势） |
-| 暗示功能（Suggestive） | Te 外倾思维 | — |
-| 动员功能（Mobilizing） | Si 内倾感觉 | — |
-| 忽视功能（Ignoring） | Ne 外倾直觉 | ≈ 第五功能 |
-| 示范功能（Demonstrative） | Fi 内倾情感 | ≈ 第六功能 |
+| 角色功能（Role） | Si 内倾感觉 | 第八功能（恶魔/天使） |
+| 脆弱功能（Vulnerable） | Te 外倾思维 | 第七功能（欺骗者） |
+| 暗示功能（Suggestive） | Se 外倾感觉 | 第四功能（劣势） |
+| 动员功能（Mobilizing） | Ti 内倾思维 | 第三功能 |
+| 忽视功能（Ignoring） | Ne 外倾直觉 | 第五功能（对立人格） |
+| 示范功能（Demonstrative） | Fi 内倾情感 | 第六功能（批判父母） |
 
 ### Socionics 的不同侧重
 
 🔵 Socionics 对 IEI 类型的描述与 MBTI 的 INFJ 有一些不同的侧重点：
 
-1. **二元关系（Duality）**：IEI 的对偶（Dual）类型是 **SLE（外倾感觉逻辑型，对应 MBTI ESTP）**。Socionics 认为这一对构成最互补的关系——SLE 的强力 Se 和 Ti 恰好弥补了 IEI 的 Se 脆弱和 Ti 角色功能的不足，而 IEI 的 Ni-Fe 为 SLE 提供了深层理解和情感关怀
+1. **二元关系（Duality）**：IEI 的对偶（Dual）类型是 **SLE（外倾感觉逻辑型，对应 MBTI ESTP）**。Socionics 认为这一对构成最互补的关系——SLE 的强力 Se 和 Ti 恰好回应了 IEI 的 Se 暗示和 Ti 动员需求，而 IEI 的 Ni-Fe 为 SLE 提供深层理解和情感关怀
 2. **信息代谢**：Socionics 更强调 IEI 的"时间感知"维度——Ni 不仅是"直觉"，更是对时间流动和历史-未来连续体的感知。IEI 被描述为对"时代精神"和"历史节奏"有直觉性的把握
-3. **脆弱功能 Se**：Socionics 比 MBTI 更直接地强调 IEI 在"力量"维度上的脆弱——他们难以在权力博弈中坚持自己的位置，对强力对抗和压力感到极度不适
-4. **暗示功能 Te**：IEI 被认为在"效率组织"维度上需要外部帮助——他们渴望有人帮助他们将想法转化为行动计划，但自己在这方面感到无力。这与 Beebe 模型中 Te 作为"欺骗者"（盲区）的描述形成有趣的呼应
+3. **暗示功能 Se**：IEI 重视来自他人的果断、保护和现实推动力，但自己较难持续地主动施加这种力量
+4. **脆弱功能 Te**：IEI 对效率、事实准确性和外部方法方面的批评尤其敏感；这与 Beebe 模型中 Te 作为"欺骗者"（盲区）的描述形成有趣的呼应
 5. "**浪漫主义者**"**标签**：Socionics 比 MBTI 更突出 IEI 的浪漫主义和诗意特质——将其视为最具艺术气质和情感深度的类型之一
 
 ### 🔵 Socionics 与 MBTI INFJ 描述的主要差异
@@ -592,7 +592,7 @@ INFJ 在亲密关系中展现出一种独特的深度投入模式。Ni-Fe 组合
 | 核心形象 | "辅导者/倡导者"——强调帮助和引导他人 | "浪漫主义者/诗人"——强调审美感受和时间感知 |
 | Ni 的描述 | 深层洞察、模式识别、预见 | 时间直觉、历史感、对"将来"的诗意感知 |
 | Fe 的定位 | 辅助功能——支撑 Ni 的工具 | 创造功能——IEI 主动创造的方式 |
-| 弱点强调 | Se 劣势导致的行动力不足 | Se 脆弱导致的力量博弈困难 |
+| 弱点强调 | Se 劣势导致的行动力不足 | Te 脆弱 + Se 暗示——效率压力与现实推动需求 |
 | 最佳配对 | 无强制性推荐（MBTI 不主张类型配对） | SLE（ESTP）——二元关系 |
 | 社会角色 | 咨询师、教育者、倡导者 | 艺术家、诗人、人道主义者 |
 
